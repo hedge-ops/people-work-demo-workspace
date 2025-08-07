@@ -22,7 +22,7 @@ Make sure you have People Work installed from [people-work.io/download](https://
 
 ### Opening the Demo Workspace
 
-1. **Download this demo**: Go to [Releases](../../releases) and download `WinCorp-demo.zip`
+1. **Download this [demo folder](https://github.com/hedge-ops/people-work-demo-workspace/releases/latest/download/WinCorp-demo.zip)**
 2. **Extract the ZIP file** to your desired location
 3. **Open in People Work**:
    - **macOS GUI**: Open People Work and use File → Open Workspace, then select the `WinCorp` folder
