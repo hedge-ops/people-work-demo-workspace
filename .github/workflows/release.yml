@@ -1,0 +1,61 @@
+name: Create Demo Release
+
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch:
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Get current date
+        id: date
+        run: echo "date=$(date +'%Y-%m-%d')" >> $GITHUB_OUTPUT
+
+      - name: Create ZIP of WinCorp demo
+        run: |
+          zip -r WinCorp-demo.zip WinCorp/
+          ls -la *.zip
+
+      - name: Generate release tag
+        id: tag
+        run: |
+          # Generate tag based on date and commit hash
+          TAG="v$(date +'%Y.%m.%d')-${GITHUB_SHA:0:7}"
+          echo "tag=${TAG}" >> $GITHUB_OUTPUT
+          echo "Generated tag: ${TAG}"
+
+      - name: Create Release
+        uses: softprops/action-gh-release@v1
+        with:
+          tag_name: ${{ steps.tag.outputs.tag }}
+          name: "WinCorp Demo Workspace (${{ steps.date.outputs.date }})"
+          body: |
+            🏢 **WinCorp Demo Workspace**
+            
+            Demo workspace for People Work featuring the fictional WinCorp organization. 
+            
+            **How to use:**
+            1. Download `WinCorp-demo.zip` below
+            2. Extract the ZIP file to your desired location  
+            3. Open the `WinCorp` folder in People Work
+            
+            **What's included:**
+            - Sample team members with profiles and avatars
+            - Real-world examples of meetings, one-on-ones, and project collaborations
+            - Different types of work connections showing how people interact
+            
+            📚 For detailed instructions, see the [README](https://github.com/${{ github.repository }}/blob/main/README.md)
+            
+            ---
+            *Generated from commit: ${{ github.sha }}*
+          files: |
+            WinCorp-demo.zip
+          draft: false
+          prerelease: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
