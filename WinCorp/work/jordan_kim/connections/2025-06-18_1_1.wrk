@@ -1,0 +1,11 @@
+event: {
+  name: "1:1"
+  date: "2025-06-18"
+  recurrence: {
+    starting: "2025-06-17"
+    repeats: "weekly"
+  }
+}
+observations: "Jordan gave a detailed vision for her goals and aspirations for the coming 2 quarters. She has a solid plan to get there."
+sentiment: positive
+comments: "I’m happy about the initiative Jordan has taken toward professional growth."

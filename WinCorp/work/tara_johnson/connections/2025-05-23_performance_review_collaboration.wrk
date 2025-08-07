@@ -1,0 +1,11 @@
+event: {
+  name: "Performance Review Collaboration"
+  date: "2025-05-23"
+}
+observations: """
+Walked through key achievements: Project Gravy frontend leadership, notification system architecture, mentoring Sarah. Tara came prepared with metrics on team velocity improvements and successful deployments.
+"""
+sentiment: positive
+comments: """
+I'm happy to have a conversation about my performance review with Tara.
+"""

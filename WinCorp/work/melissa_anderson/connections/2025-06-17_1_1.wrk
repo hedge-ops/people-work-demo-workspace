@@ -1,0 +1,11 @@
+event: {
+  name: "1:1"
+  date: "2025-06-17"
+  recurrence: {
+    starting: "2025-06-17"
+    repeats: "weekly"
+  }
+}
+observations: "We had our weekly one on one and Melissa updated me on Project Biscuits. It’s going well."
+sentiment: positive
+comments: "Posiitive vibes all around"

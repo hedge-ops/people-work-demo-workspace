@@ -1,0 +1,7 @@
+event: {
+  name: "Team Standup"
+  date: "2025-05-27"
+}
+observations: "Tara's leadership showing results: performance PR landed, mentoring Sarah successfully, test automation improvements. Only blocker is external (DevOps staging)."
+sentiment: positive
+comments: "Team morale and velocity improving under Tara's technical guidance. Her mentorship of Sarah is particularly impressive. Need to highlight these wins in her performance review. She's ready for more leadership opportunities."

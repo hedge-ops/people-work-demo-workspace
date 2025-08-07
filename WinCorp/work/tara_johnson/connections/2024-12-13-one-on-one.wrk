@@ -1,0 +1,14 @@
+event: {
+    name: "1:1"
+    date: "2025-06-13"
+  recurrence: {
+    starting: "2025-06-13"
+    repeats: "weekly"
+  }
+}
+observations: "Tara late on delivering Project Gravy"
+sentiment: negative
+comments: "I'm worried about her performance"
+// mappings: {
+//     negative: [principal_engineer.requirements.project_execution.leadership]
+// }

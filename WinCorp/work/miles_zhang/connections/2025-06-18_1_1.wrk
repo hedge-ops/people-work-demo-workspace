@@ -1,0 +1,11 @@
+event: {
+  name: "1:1"
+  date: "2025-06-18"
+  recurrence: {
+    starting: "2025-06-17"
+    repeats: "weekly"
+  }
+}
+observations: "Good update."
+sentiment: neutral
+comments: "Nothing of note"

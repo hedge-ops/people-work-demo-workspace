@@ -1,0 +1,37 @@
+user alex_rivera {}
+
+contact kevin_osei {
+  relationship: direct_report
+}
+
+contact tara_johnson {
+  relationship: direct_report
+}
+
+contact miles_zhang {
+  relationship: direct_report
+}
+
+contact jordan_kim {
+  relationship: direct_report
+}
+
+// Manager
+contact melissa_anderson {
+  relationship: stakeholder
+}
+
+// External network contacts
+contact hailey_smith {
+  relationship: base
+}
+
+contact elijah_gonzalez_hernandez {
+  relationship: base
+}
+contact cecil_parker {
+  relationship: first_team
+}
+contact kristina_xuan {
+  relationship: stakeholder
+}

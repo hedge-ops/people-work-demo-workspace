@@ -1,0 +1,11 @@
+event: {
+  name: "1:1"
+  date: "2025-06-17"
+  recurrence: {
+    starting: "2025-06-17"
+    repeats: "weekly"
+  }
+}
+observations: "Tara is behind on several promised I’ve asked of her."
+sentiment: negative
+comments: "I’m getting pretty frustrated."

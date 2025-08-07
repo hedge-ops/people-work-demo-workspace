@@ -1,0 +1,10 @@
+event: {
+    name: "Standup"
+    date: "2024-12-18"
+}
+observations: "Tara not working well with Bob, her product manager"
+sentiment: negative
+comments: "I worry that she has a bad attitude about this company"
+// mappings: {
+//     negative: [principal_engineer.requirements.collaboration.partnerships]
+// }

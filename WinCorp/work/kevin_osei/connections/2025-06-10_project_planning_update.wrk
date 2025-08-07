@@ -1,0 +1,11 @@
+event: {
+  name: "Project Planning / Update"
+  date: "2025-06-10"
+  recurrence: {
+    starting: "2025-06-17"
+    repeats: "every 2 weeks"
+  }
+}
+observations: "We talked about X. It is on track."
+sentiment: positive
+comments: "Kevin is a go-getter. Great person."

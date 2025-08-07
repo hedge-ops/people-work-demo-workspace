@@ -1,0 +1,14 @@
+event: {
+  name: "Project Update"
+  date: "2025-06-01"
+}
+observations: """
+Tara updated me that the project has the following wins:
+* data feature set is implemented
+* 3 critical bugs were fixed
+
+And the following struggles:
+* the team lead continues to struggle with micro-management
+"""
+sentiment: positive
+comments: "I’m happy that Tara is so productive and that she’s voicing her concerns for unhealthy leadership. I am hopeful this trend will continue."

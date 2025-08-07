@@ -1,0 +1,302 @@
+job software_engineer_1 {
+  name: "Software Engineer I"
+  requirements: {
+    technical: {
+      implementation: "Implements well-defined features with guidance"
+      code_quality: "Writes maintainable code following team standards"
+      code_review: "Participates in code reviews and bug fixes"
+      testing: "Learns testing best practices"
+    }
+    project_execution: {
+      delivery: "Delivers assigned tasks within expected timeframes"
+      clarity: "Seeks clarification when requirements are unclear"
+      updates: "Updates progress regularly"
+      process: "Follows established development processes"
+    }
+    problem_solving: {
+      debugging: "Debugs and resolves basic technical issues"
+      impact: "Understands how their code impacts immediate dependencies"
+      decomposition: "Learns to break down problems into manageable tasks"
+    }
+    collaboration: {
+      participation: "Actively participates in team meetings"
+      communication: "Communicates blockers and progress clearly"
+      feedback: "Receives and implements feedback effectively"
+      teamwork: "Works well with immediate team members"
+    }
+    growth: {
+      learning: "Demonstrates eagerness to learn new technologies"
+      initiative: "Takes initiative in skill development"
+      mentorship: "Seeks and accepts mentorship"
+      domain: "Builds understanding of product domain"
+    }
+  }
+}
+
+job software_engineer_2 {
+  name: "Software Engineer II"
+  requirements: {
+    technical: {
+      implementation: "Independently implements medium-sized features"
+      design: "Designs straightforward technical solutions"
+      code_review: "Provides thorough code reviews"
+      documentation: "Contributes to technical documentation"
+    }
+    project_execution: {
+      delivery: "Manages own deliverables reliably"
+      decision_making: "Makes informed technical decisions"
+      estimation: "Estimates work effort accurately"
+      risk_management: "Identifies potential risks early"
+    }
+    problem_solving: {
+      resolution: "Resolves complex issues independently"
+      system_thinking: "Considers broader system impact"
+      improvement: "Suggests process improvements"
+      optimization: "Identifies optimization opportunities"
+    }
+    collaboration: {
+      mentoring: "Mentors junior engineers informally"
+      cross_team: "Communicates effectively across teams"
+      technical_discussion: "Contributes constructively to technical discussions"
+      status: "Provides clear status updates"
+    }
+    growth: {
+      technical_growth: "Expands technical breadth"
+      domain_expertise: "Develops domain expertise"
+      feedback: "Proactively seeks feedback"
+      strategy: "Understands product strategy"
+    }
+  }
+}
+
+job senior_engineer {
+  name: "Senior Software Engineer"
+  requirements: {
+    technical: {
+      implementation: "Designs and implements complex features"
+      architecture: "Architects scalable solutions"
+      leadership: "Provides technical leadership"
+      best_practices: "Drives best practices adoption"
+    }
+    project_execution: {
+      initiative: "Leads significant technical initiatives"
+      technical_debt: "Balances technical debt with delivery"
+      architecture: "Makes sound architectural decisions"
+      quality: "Ensures quality of deliverables"
+    }
+    problem_solving: {
+      challenges: "Solves ambiguous technical challenges"
+      scaling: "Anticipates scaling problems"
+      solutions: "Creates systemic solutions"
+      processes: "Improves development processes"
+    }
+    collaboration: {
+      mentoring: "Mentors other engineers actively"
+      influence: "Influences technical decisions"
+      leadership: "Drives technical discussions"
+      cross_org: "Works effectively across organization"
+    }
+    growth: {
+      leadership: "Develops leadership capabilities"
+      perspective: "Broadens system perspective"
+      industry: "Stays current with industry trends"
+      vision: "Contributes to technical vision"
+    }
+  }
+}
+
+job staff_engineer {
+  name: "Staff Software Engineer"
+  requirements: {
+    technical: {
+      architecture: "Architects complex distributed systems"
+      strategy: "Drives technical strategy across projects"
+      oversight: "Provides technical oversight for critical initiatives"
+      decisions: "Makes high-impact architectural decisions"
+    }
+    project_execution: {
+      leadership: "Leads multi-team technical initiatives"
+      roadmap: "Defines technical roadmaps"
+      excellence: "Ensures technical excellence across projects"
+      balance: "Balances business needs with technical concerns"
+    }
+    problem_solving: {
+      challenges: "Solves organizational technical challenges"
+      architecture: "Creates scalable system architectures"
+      opportunities: "Identifies strategic technical opportunities"
+      governance: "Develops technical governance"
+    }
+    collaboration: {
+      influence: "Influences cross-team technical decisions"
+      consensus: "Builds consensus across engineering groups"
+      mentoring: "Mentors senior engineers"
+      communication: "Communicates technical vision effectively"
+    }
+    growth: {
+      innovation: "Drives technical innovation"
+      culture: "Shapes engineering culture"
+      industry: "Contributes to industry discussions"
+      leadership: "Develops organizational leadership skills"
+    }
+  }
+}
+
+job principal_engineer {
+  name: "Principal Software Engineer"
+  requirements: {
+    technical: {
+      vision: "Defines technical vision for multiple products"
+      strategy: "Creates multi-year technical strategies"
+      innovation: "Drives innovation in core architectures"
+      standards: "Establishes technical standards"
+    }
+    project_execution: {
+      leadership: "Leads organization-wide technical initiatives"
+      planning: "Drives strategic technical planning"
+      impact: "Makes decisions affecting multiple teams"
+      strategy: "Influences product strategy"
+    }
+    problem_solving: {
+      challenges: "Solves complex organizational challenges"
+      capabilities: "Creates new technical capabilities"
+      opportunities: "Identifies strategic opportunities"
+      practices: "Develops engineering best practices"
+    }
+    collaboration: {
+      influence: "Influences organization direction"
+      partnerships: "Builds strategic partnerships"
+      mentoring: "Mentors technical leaders"
+      representation: "Represents engineering organization"
+    }
+    growth: {
+      practice: "Advances state of practice"
+      knowledge: "Contributes to industry knowledge"
+      leadership: "Develops future technical leaders"
+      culture: "Shapes engineering culture"
+    }
+  }
+}
+
+matrix software_engineering {
+  name: "Software Engineering"
+  categories: {
+    technical: {
+      name: "Technical"
+      description: "Core technical and architectural capabilities"
+    }
+    project_execution: {
+      name: "Project Execution"
+      description: "Delivery and implementation of technical work"
+    }
+    problem_solving: {
+      name: "Problem Solving"
+      description: "Technical problem solving and system thinking"
+    }
+    collaboration: {
+      name: "Collaboration"
+      description: "Working with others and leadership"
+    }
+    growth: {
+      name: "Growth and Learning"
+      description: "Personal and professional development"
+    }
+  }
+    jobs: [
+      software_engineer_1,
+      software_engineer_2,
+      senior_engineer,
+      staff_engineer,
+      principal_engineer
+    ]
+  }
+
+member kevin_osei {
+    first_name: "Kevin"
+    last_name: "Osei"
+    job: software_engineer_2
+    email: "test-kevin-osei@hedge-ops.com"
+  }
+
+member alex_rivera {
+    first_name: "Alex"
+    last_name: "Rivera"
+    email: "test-alex-rivera@hedge-ops.com"
+  }
+
+member jordan_kim {
+    first_name: "Jordan"
+    last_name: "Kim"
+    job: software_engineer_2
+    email: "test-jordan-kim@hedge-ops.com"
+  }
+
+member miles_zhang {
+    first_name: "Miles"
+    last_name: "Zhang"
+    job: senior_engineer
+    email: "test-miles-zhang@hedge-ops.com"
+  }
+
+member tara_johnson {
+    first_name: "Tara"
+    last_name: "Johnson"
+    job: principal_engineer
+    email: "test-tara-johnson@hedge-ops.com"
+  }
+
+// Organization Administrator
+member jamie_winsor {
+    first_name: "Jamie"
+    last_name: "Winsor"
+    email: "test-jamie-winsor@hedge-ops.com"
+  }
+
+// External Contacts/Network
+member ashley_vaughn {
+    first_name: "Ashley"
+    last_name: "Vaughn"
+    email: "test-ashley-vaughn@hedge-ops.com"
+  }
+
+member hailey_smith {
+    first_name: "Hailey"
+    last_name: "Smith"
+    email: "test-hailey-smith@hedge-ops.com"
+  }
+
+member elijah_gonzalez_hernandez {
+    first_name: "Elijah"
+    last_name: "Gonzalez Hernandez"
+    email: "test-elijah-gonzalez-hernandez@hedge-ops.com"
+  }
+
+member mia_ann_thompson {
+    first_name: "Mia Ann"
+    last_name: "Thompson"
+    email: "test-mia-ann-thompson@hedge-ops.com"
+  }
+
+member jeff_hinkson {
+    first_name: "Jeff"
+    last_name: "Hinkson"
+    email: "test-jeff-hinkson@hedge-ops.com"
+  }
+
+member jamie_harden_emerson {
+    first_name: "Jamie"
+    last_name: "Harden-Emerson"
+    email: "test-jamie-harden-emerson@hedge-ops.com"
+  }
+
+member melissa_anderson {
+    first_name: "Melissa"
+    last_name: "Anderson"
+  }
+member cecil_parker {
+    first_name: "Cecil"
+    last_name: "Parker"
+  }
+member kristina_xuan {
+  first_name: "Kristina"
+  last_name: "Xuan"
+}

@@ -1,0 +1,11 @@
+event: {
+  name: "Lunch Meeting"
+  date: "2025-06-17"
+  recurrence: {
+    starting: "2025-06-17"
+    repeats: "monthly"
+  }
+}
+observations: "I believe that Elijah’s new project, Cosmos, will deliver a lot of productivity to the organization. I not only want to realize that productivity for our team, but I want to expand on the integrations."
+sentiment: positive
+comments: "This was a great meeting. I feel great about future collabs with Elijah. He’s really nice to work with."

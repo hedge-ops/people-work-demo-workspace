@@ -1,0 +1,8 @@
+event: {
+  name: "Coffee"
+  date: "2025-06-24"
+  recurrence: {
+    starting: "2025-06-24"
+    repeats: "every 2 weeks"
+  }
+}

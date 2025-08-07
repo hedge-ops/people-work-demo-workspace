@@ -1,0 +1,11 @@
+event: {
+  name: "1:1"
+  date: "2025-06-19"
+  recurrence: {
+    starting: "2025-06-17"
+    repeats: "weekly"
+  }
+}
+observations: "Nothing really new going on with Kevin. He’s trucking along."
+sentiment: neutral
+comments: "Just fine."

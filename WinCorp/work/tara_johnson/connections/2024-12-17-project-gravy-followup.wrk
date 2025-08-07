@@ -1,0 +1,10 @@
+event: {
+    name: "Slack follow up about Project Gravy stakeholder meeting"
+    date: "2024-12-17"
+}
+observations: "Project is back on track"
+sentiment: positive
+comments: "Feeling better about Tara's progress"
+// mappings: {
+//     positive: [principal_engineer.requirements.project_execution.leadership]
+// }

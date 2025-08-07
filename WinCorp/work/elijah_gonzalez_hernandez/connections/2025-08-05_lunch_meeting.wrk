@@ -1,0 +1,8 @@
+event: {
+  name: "Lunch Meeting"
+  date: "2025-06-05"
+  recurrence: {
+    starting: "2025-06-05"
+    repeats: "monthly"
+  }
+}
