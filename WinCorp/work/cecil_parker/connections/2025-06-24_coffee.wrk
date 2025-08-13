@@ -1,8 +1,11 @@
 event: {
   name: "Coffee"
-  date: "2025-06-24"
+  date: "2025-08-24"
   recurrence: {
-    starting: "2025-06-24"
+    starting: "2025-08-24"
     repeats: "every 2 weeks"
   }
 }
+observations: "Talked about team dynamics and what we need to go to get everyone liking each other again."
+sentiment: positive
+comments: "We’re on the same page and will see this problem through to a good solution."

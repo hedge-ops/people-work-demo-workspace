@@ -1,8 +1,8 @@
 event: {
   name: "Project Planning / Update"
-  date: "2025-06-05"
+  date: "2025-08-05"
   recurrence: {
-    starting: "2025-06-17"
+    starting: "2025-08-17"
     repeats: "every 2 weeks"
   }
 }

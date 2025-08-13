@@ -1,6 +1,6 @@
 event: {
   name: "Team Standup"
-  date: "2025-03-26"
+  date: "2025-05-26"
 }
 observations: "Tara's leadership showing results: performance PR landed, mentoring Sarah successfully, test automation improvements. Only blocker is external (DevOps staging)."
 sentiment: positive

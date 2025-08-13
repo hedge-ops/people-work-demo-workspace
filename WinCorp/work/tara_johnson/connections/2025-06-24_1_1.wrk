@@ -1,8 +1,11 @@
 event: {
   name: "1:1"
-  date: "2025-06-24"
+  date: "2025-08-24"
   recurrence: {
-    starting: "2025-06-17"
+    starting: "2025-08-17"
     repeats: "weekly"
   }
 }
+observations: "Talked about upcoming PTO and plans for the holidays."
+sentiment: neutral
+comments: "Nothing too deep in this meeting."

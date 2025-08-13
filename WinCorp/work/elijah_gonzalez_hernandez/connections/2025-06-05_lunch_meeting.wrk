@@ -1,0 +1,11 @@
+event: {
+  name: "Lunch Meeting"
+  date: "2025-08-05"
+  recurrence: {
+    starting: "2025-08-05"
+    repeats: "monthly"
+  }
+}
+observations: "We discussed how Elijah is blocked by the Tiger team and what he can do about that - namely engage with their manager."
+sentiment: positive
+comments: "Elijah is on top of the situation, so I feel great about his progress."
