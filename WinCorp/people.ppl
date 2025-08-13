@@ -1,19 +1,19 @@
 user alex_rivera {}
 
 contact kevin_osei {
-  relationship: direct_report
+  relationship: learner
 }
 
 contact tara_johnson {
-  relationship: direct_report
+  relationship: learner
 }
 
 contact miles_zhang {
-  relationship: direct_report
+  relationship: learner
 }
 
 contact jordan_kim {
-  relationship: direct_report
+  relationship: learner
 }
 
 // Manager
@@ -23,14 +23,14 @@ contact melissa_anderson {
 
 // External network contacts
 contact hailey_smith {
-  relationship: base
+  relationship: community
 }
 
 contact elijah_gonzalez_hernandez {
   relationship: base
 }
 contact cecil_parker {
-  relationship: first_team
+  relationship: peer
 }
 contact kristina_xuan {
   relationship: stakeholder
