@@ -1,37 +1,37 @@
 user alex_rivera {}
 
 contact kevin_osei {
-  relationship: learner
+  group: guide
 }
 
 contact tara_johnson {
-  relationship: learner
+  group: guide
 }
 
 contact miles_zhang {
-  relationship: learner
+  group: guide
 }
 
 contact jordan_kim {
-  relationship: learner
+  group: guide
 }
 
 // Manager
 contact melissa_anderson {
-  relationship: stakeholder
+  group: align
 }
 
 // External network contacts
 contact hailey_smith {
-  relationship: community
+  group: network
 }
 
 contact elijah_gonzalez_hernandez {
-  relationship: community
+  group: network
 }
 contact cecil_parker {
-  relationship: peer
+  group: partner
 }
 contact kristina_xuan {
-  relationship: stakeholder
+  group: align
 }
