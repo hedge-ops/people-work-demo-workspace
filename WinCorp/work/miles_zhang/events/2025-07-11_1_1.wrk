@@ -1,0 +1,13 @@
+event: {
+  name: "1:1"
+  date: "2025-07-11"
+}
+observations: """
+Miles working on database archival optimization.
+Solid, methodical work as always.
+Mentioned daughter starting college in fall.
+"""
+sentiment: positive
+comments: """
+Family transitions. He's balancing work and life well.
+"""

@@ -1,0 +1,13 @@
+event: {
+  name: "1:1"
+  date: "2025-08-18"
+}
+observations: """
+Melissa working on data pipeline optimization.
+Learning about our data infrastructure.
+Asking good questions to build understanding.
+"""
+sentiment: positive
+comments: """
+Intellectual curiosity is strong.
+"""

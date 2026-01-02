@@ -1,0 +1,20 @@
+event: {
+  name: "Weekly Planning"
+  date: "2025-09-15"
+}
+observations: """
+Last week's wins:
+* Kevin took the feedback well. He apologized to the team.
+* Q4 Roadmap draft is ready.
+
+What should change:
+- Tara and Miles got into a heated argument about testing frameworks.
+- Jordan looked terrified watching them fight.
+
+This week's big 3 goals:
+1. De-escalate the Miles/Tara war.
+2. Present Q4 roadmap to Ashley.
+3. Take Jordan to coffee to reassure her that this isn't normal.
+"""
+sentiment: negative
+comments: "The team dynamic is fracturing. Miles is stubborn, Tara is aggressive. I feel like a kindergarten teacher. This is distracting me from the strategic work I need for my promotion."

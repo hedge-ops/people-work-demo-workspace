@@ -1,0 +1,31 @@
+commitment: {
+  name: "Principal Promotion Packet"
+  owner: mine
+  start: "2025-11-01"
+  end: "2026-01-01"
+}
+observations: """
+Kevin working on Principal Engineer promotion packet.
+Need to document:
+- Technical leadership across multiple teams
+- Company-wide impact (tracing system, performance work)
+- Mentorship of engineers
+- Architecture contributions
+
+Timeline: Submit by end of November for January promotion.
+
+Kevin's promotion packet submitted!
+Documentation thorough and compelling.
+Highlights distributed tracing impact, tech summit presentation,
+cross-team leadership, and mentorship contributions.
+
+Principal promotion approved effective January 1, 2026!
+Kevin's hard work and impact recognized.
+He's ready for expanded Principal scope.
+"""
+sentiment: positive
+comments: """
+His case is strong. Excited to advocate for him.
+Excellent packet. His promotion is well-justified.
+Well-deserved promotion. He's earned it.
+"""

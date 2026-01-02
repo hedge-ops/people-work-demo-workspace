@@ -1,0 +1,13 @@
+event: {
+  name: "1:1"
+  date: "2025-11-06"
+}
+observations: """
+Principal promotion packet submitted!
+Kevin continuing to deliver while packet is reviewed.
+Leading critical infrastructure project.
+"""
+sentiment: positive
+comments: """
+Consistent performance regardless of promotion status.
+"""

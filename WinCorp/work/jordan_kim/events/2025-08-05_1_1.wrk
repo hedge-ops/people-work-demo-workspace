@@ -1,0 +1,13 @@
+event: {
+  name: "1:1"
+  date: "2025-08-05"
+}
+observations: """
+Jordan presented at all-hands on rate limiting patterns. Well received.
+Other teams asking to adopt her approach.
+Starting work on mobile SDK improvements.
+"""
+sentiment: positive
+comments: """
+Company-wide impact. She's ready for Senior track.
+"""

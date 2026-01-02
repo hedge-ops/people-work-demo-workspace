@@ -1,0 +1,13 @@
+event: {
+  name: "1:1"
+  date: "2025-07-01"
+}
+observations: """
+Jordan working on caching optimization for new features.
+Her code quality continues to be excellent. Minimal review feedback.
+Discussed her progress toward Senior Engineer goals.
+"""
+sentiment: positive
+comments: """
+She's operating at Engineer III level consistently now.
+"""

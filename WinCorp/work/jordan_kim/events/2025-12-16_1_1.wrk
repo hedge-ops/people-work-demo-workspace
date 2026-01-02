@@ -1,0 +1,13 @@
+event: {
+  name: "1:1"
+  date: "2025-12-16"
+}
+observations: """
+Last 1:1 of 2025. Jordan proud of her year.
+Senior promotion, successful tech lead project, mentoring others.
+Taking holidays off to celebrate with family.
+"""
+sentiment: positive
+comments: """
+What a year for her. Excited for her 2026.
+"""

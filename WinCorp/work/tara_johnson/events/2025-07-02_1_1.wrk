@@ -1,0 +1,14 @@
+event: {
+  name: "1:1"
+  date: "2025-07-02"
+}
+observations: """
+First 1:1 as Sr. Principal. Tara settling into expanded role well.
+Discussed authentication standardization RFC - getting positive feedback 
+from architecture review board.
+Also coordinating with 3 teams on implementation timeline.
+"""
+sentiment: positive
+comments: """
+She's handling the increased scope confidently. Big change from a year ago.
+"""

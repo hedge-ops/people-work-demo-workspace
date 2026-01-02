@@ -1,0 +1,13 @@
+event: {
+  name: "1:1"
+  date: "2025-11-28"
+}
+observations: """
+Thanksgiving week. Brief check-in.
+Miles with family for holiday.
+Database systems stable.
+"""
+sentiment: neutral
+comments: """
+Well-earned family time.
+"""

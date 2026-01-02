@@ -1,0 +1,13 @@
+event: {
+  name: "1:1"
+  date: "2025-08-26"
+}
+observations: """
+Mobile SDK updates released. Zero issues in production.
+Jordan received kudos from mobile team for collaboration.
+Starting Senior promotion packet preparation.
+"""
+sentiment: positive
+comments: """
+Ready to advocate for her promotion.
+"""

@@ -1,0 +1,19 @@
+event: {
+  name: "Weekly Planning"
+  date: "2025-12-15"
+}
+observations: """
+Last week's wins:
+* Team Holiday party was a blast. Even Miles stayed late.
+* The migration project is officially marked 'Complete'.
+
+What should change:
+- Absolutely nothing. We are coasting to the finish line.
+
+This week's big 3 goals:
+1. Clean up documentation for 2026.
+2. Archive old Slack channels.
+3. Thank you notes to stakeholders (Melissa, Kristina, Cecil).
+"""
+sentiment: positive
+comments: "The year is effectively over. We survived. We shipped the migration, we onboarded Jordan, we handled a toxic departure, and we kept the site up. I'm proud of this group."

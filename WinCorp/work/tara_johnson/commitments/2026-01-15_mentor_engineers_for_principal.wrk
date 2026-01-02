@@ -1,0 +1,21 @@
+commitment: {
+  name: "Mentor Engineers for Principal Promotion"
+  owner: mine
+  start: "2026-01-15"
+  end: "2026-06-30"
+}
+observations: """
+Asked Tara to formally mentor 2 engineers preparing for Principal promotion:
+- Kevin Osei (Senior to Principal track)
+- Sarah Chen from Data team (Senior to Principal track)
+
+Mentorship includes:
+- Technical leadership coaching
+- System design reviews
+- Cross-team collaboration guidance
+- Promotion packet preparation
+"""
+sentiment: positive
+comments: """
+She's the perfect person for this. Her own journey makes her relatable.
+"""

@@ -1,0 +1,13 @@
+event: {
+  name: "1:1"
+  date: "2025-07-15"
+}
+observations: """
+Jordan helping onboard new Engineer II. Patient and thorough teaching.
+Working on API rate limiting feature.
+Asked good questions about system scalability.
+"""
+sentiment: positive
+comments: """
+She's paying forward the mentorship she received.
+"""

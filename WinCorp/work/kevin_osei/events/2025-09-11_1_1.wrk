@@ -1,0 +1,13 @@
+event: {
+  name: "1:1"
+  date: "2025-09-11"
+}
+observations: """
+Engineering summit presentation was excellent.
+Kevin received questions from leadership about his approach.
+Starting Principal promotion packet preparation.
+"""
+sentiment: positive
+comments: """
+Strong visibility with leadership. Good timing.
+"""

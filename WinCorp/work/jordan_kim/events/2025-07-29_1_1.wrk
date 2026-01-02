@@ -1,0 +1,13 @@
+event: {
+  name: "1:1"
+  date: "2025-07-29"
+}
+observations: """
+Rate limiting feature complete. Clean implementation.
+Jordan volunteered to present at next engineering all-hands.
+Growing confidence in public speaking.
+"""
+sentiment: positive
+comments: """
+Leadership emergence is natural for her.
+"""

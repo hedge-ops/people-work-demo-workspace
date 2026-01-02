@@ -1,0 +1,20 @@
+event: {
+  name: "Weekly Planning"
+  date: "2025-09-01"
+}
+observations: """
+Last week's wins:
+* Kevin's design doc is solid.
+* Networking: Good chat with Cecil Parker about cross-team deps.
+
+What should change:
+- Holiday today (Labor Day), short week ahead.
+- Tara is completely silent in Slack channels.
+
+This week's big 3 goals:
+1. Q4 Resource Planning.
+2. Check in on Tara's specific deliverables.
+3. Approve Jordan's training budget request.
+"""
+sentiment: neutral
+comments: "Quiet week expected. Tara's silence is louder than her complaints used to be. I suspect she's looking for a new job. I need to have a contingency plan if my Principal Engineer leaves."

@@ -1,0 +1,13 @@
+event: {
+  name: "1:1"
+  date: "2025-09-05"
+}
+observations: """
+Labor Day week. Brief check-in.
+Miles at daughter's college move-in.
+Database systems running smoothly.
+"""
+sentiment: neutral
+comments: """
+Family first. That's his priority.
+"""

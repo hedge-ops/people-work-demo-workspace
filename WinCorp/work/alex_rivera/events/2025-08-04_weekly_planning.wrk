@@ -1,0 +1,21 @@
+event: {
+  name: "Weekly Planning"
+  date: "2025-08-04"
+}
+observations: """
+Last week's wins:
+* Kevin successfully migrated the user table (Phase 1 complete).
+* Jordan handled a customer support ticket entirely on her own.
+* Coffee with Melissa Anderson (Stakeholder) went well; she likes our velocity.
+
+What should change:
+- Miles is annoyed with the 'process' updates. He just wants to code.
+- Tara was late to Standup 3 times.
+
+This week's big 3 goals:
+1. Review Q3 budget.
+2. 1:1 with Tara to address attendance/engagement.
+3. Help Kevin scope Phase 2 (it looks too big).
+"""
+sentiment: neutral
+comments: "Kevin is moving fast, maybe too fast. I see him cutting corners on documentation. Tara seems… distant. Not angry, just checked out. I need to figure out if she's interviewing."

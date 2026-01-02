@@ -1,0 +1,12 @@
+event: {
+  name: "Holiday Break"
+  start: "2025-12-23"
+  end: "2026-01-03"
+}
+observations: """
+Jordan out for winter holidays.
+"""
+sentiment: neutral
+comments: """
+Well-deserved break after promotion and strong year.
+"""

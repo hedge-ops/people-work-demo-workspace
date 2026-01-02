@@ -1,0 +1,13 @@
+event: {
+  name: "1:1"
+  date: "2025-12-09"
+}
+observations: """
+Jordan working on Q4 wrap-up.
+She's helping plan Q1 2026 roadmap.
+Proposing new initiatives for the team.
+"""
+sentiment: positive
+comments: """
+Taking ownership at Senior level.
+"""

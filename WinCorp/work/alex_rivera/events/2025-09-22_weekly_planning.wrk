@@ -1,0 +1,20 @@
+event: {
+  name: "Weekly Planning"
+  date: "2025-09-22"
+}
+observations: """
+Last week's wins:
+* Roadmap approved.
+* Mentored Elijah on how to give code review feedback.
+
+What should change:
+- I'm behind on 1:1 notes.
+- Feeling disconnected from the actual code.
+
+This week's big 3 goals:
+1. Update 'accomplishments' doc for Ashley.
+2. Attend the 'Director Leadership' workshop.
+3. Pair program with Jordan (1 hour).
+"""
+sentiment: neutral
+comments: "I need to focus on my own career growth this week. I've been so in the weeds with the team drama. The Leadership workshop should be good for networking."

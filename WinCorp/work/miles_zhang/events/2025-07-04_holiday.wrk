@@ -1,0 +1,12 @@
+event: {
+  name: "Independence Day"
+  start: "2025-07-04"
+  end: "2025-07-04"
+}
+observations: """
+Miles out for July 4th holiday.
+"""
+sentiment: neutral
+comments: """
+Glad he's taking a break.
+"""

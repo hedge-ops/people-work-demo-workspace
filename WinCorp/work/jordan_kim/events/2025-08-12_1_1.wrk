@@ -1,0 +1,13 @@
+event: {
+  name: "1:1"
+  date: "2025-08-12"
+}
+observations: """
+Mobile SDK work progressing. Jordan coordinating with mobile team effectively.
+She's thinking about cross-team dependencies proactively.
+Discussed Senior Engineer promotion timeline.
+"""
+sentiment: positive
+comments: """
+Her growth trajectory is impressive.
+"""

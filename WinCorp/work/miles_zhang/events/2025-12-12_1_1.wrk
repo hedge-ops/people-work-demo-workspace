@@ -1,0 +1,13 @@
+event: {
+  name: "1:1"
+  date: "2025-12-12"
+}
+observations: """
+Year-end review prep. Miles' contributions excellent as always.
+Not interested in promotion, wants fair compensation.
+That's reasonable and I support it.
+"""
+sentiment: positive
+comments: """
+He knows what he wants from work.
+"""

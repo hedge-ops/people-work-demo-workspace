@@ -1,0 +1,20 @@
+event: {
+  name: "Weekly Planning"
+  date: "2025-10-20"
+}
+observations: """
+Last week's wins:
+* Alerting overhaul is 50% done. Miles is in his element.
+* Tara gave a great technical talk (surprisingly).
+
+What should change:
+- I'm tired. The 'sprint' to the end of the year feels long.
+- Networking has dropped off again.
+
+This week's big 3 goals:
+1. Schedule 3 coffee chats for Nov (Internal Networking).
+2. Finalize Kevin's promotion packet draft.
+3. Clean up the backlog.
+"""
+sentiment: neutral
+comments: "Just grinding it out. The team is stable. Tara is still here, weirdly. Maybe the job market is tough. I need to keep my energy up for the final push."

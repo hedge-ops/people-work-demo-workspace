@@ -1,0 +1,19 @@
+event: {
+  name: "1:1"
+  date: "2025-12-03"
+}
+observations: """
+Year-end review prep. Discussed Tara's 2025 accomplishments:
+- Sr. Principal promotion and expanded impact
+- Project Gravy Phase 3 success
+- Auth standardization initiative
+- Conference speaking and industry visibility
+- Mentoring multiple engineers
+
+2026 goals: Distinguished Engineer track, company-wide architecture influence.
+"""
+sentiment: positive
+comments: """
+What a transformation from the struggling Principal of August 2024.
+She's become one of our most valuable technical leaders.
+"""

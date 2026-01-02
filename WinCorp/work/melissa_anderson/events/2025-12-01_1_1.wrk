@@ -1,0 +1,13 @@
+event: {
+  name: "1:1"
+  date: "2025-12-01"
+}
+observations: """
+Year-end approaching. Melissa's growth steady.
+Consistent solid contributions throughout year.
+Discussed 2026 growth goals.
+"""
+sentiment: positive
+comments: """
+Reliable performer.
+"""

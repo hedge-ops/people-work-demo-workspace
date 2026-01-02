@@ -1,0 +1,21 @@
+event: {
+  name: "Weekly Planning"
+  date: "2025-06-02"
+}
+observations: """
+Last week's wins:
+* Kevin shipped the API refactor ahead of schedule.
+* Had a good initial coffee chat with Hailey Smith from the data team.
+* Miles handled the on-call rotation with zero drama.
+
+What should change:
+- Jordan seems lost. I saw her staring at the same PR for 3 hours.
+- My 1:1 with Tara felt tense; we aren't aligned on what "Principal" means here.
+
+This week's big 3 goals:
+1. Set up a formal onboarding buddy system for Jordan (maybe Elijah?).
+2. Review Kevin's "path to Senior" doc.
+3. Draft Q3 headcount proposal for Melissa.
+"""
+sentiment: neutral
+comments: "I'm feeling a bit anxious about the team dynamic. We have high performers like Kevin, but Tara seems unhappy. She mentioned pay disparity vaguely, and I need to nip that resentment in the bud or it will poison the well. I need to be a better shield for Jordan; the seniors are ignoring her."

@@ -1,0 +1,13 @@
+event: {
+  name: "1:1"
+  date: "2025-09-25"
+}
+observations: """
+Kevin working on promotion packet.
+Documenting technical leadership and company-wide impact.
+Also leading architecture review board discussions.
+"""
+sentiment: positive
+comments: """
+His case for Principal is strong.
+"""

@@ -1,0 +1,20 @@
+event: {
+  name: "Weekly Planning"
+  date: "2025-07-07"
+}
+observations: """
+Last week's wins:
+* Mid-year review with Miles was easy. He's happy.
+* Kevin is leading the tech debt cleanup initiative.
+
+What should change:
+- Tara's peer feedback is concerning. 'Hard to work with' came up twice.
+- Jordan is still working late; need to check for burnout.
+
+This week's big 3 goals:
+1. Deliver sensitive feedback to Tara without causing a meltdown.
+2. Force Jordan to take a half-day Friday.
+3. Connect with Cecil Parker on the dependency update.
+"""
+sentiment: negative
+comments: "Dreading the conversation with Tara. She thinks she's crushing it, but the team finds her abrasive. If I tell her the truth, she might quit. If I don't, the team morale sinks. Management is hard."

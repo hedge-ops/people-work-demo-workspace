@@ -1,0 +1,13 @@
+event: {
+  name: "1:1"
+  date: "2026-01-08"
+}
+observations: """
+First 1:1 as Principal Engineer!
+Kevin energized about expanded scope.
+Leading company-wide performance optimization initiative.
+"""
+sentiment: positive
+comments: """
+Starting Principal role strong.
+"""

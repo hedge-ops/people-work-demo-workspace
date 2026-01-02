@@ -1,0 +1,7 @@
+event: {
+  name: "Weekly Planning"
+  date: "2025-08-25"
+}
+observations: "Last week: Vacation days. Team survived without me. Jordan led standup! Goals: 1. Catch up on email. 2. Sync with Kristina Xuan. 3. Review Kevin’s design doc."
+sentiment: positive
+comments: "Refreshed. It was great to see Jordan step up while I was out. She's finding her voice. Miles, however, seems to have ignored all tickets while I was gone to focus on one interesting bug."

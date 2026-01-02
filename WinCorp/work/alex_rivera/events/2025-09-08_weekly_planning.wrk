@@ -1,0 +1,20 @@
+event: {
+  name: "Weekly Planning"
+  date: "2025-09-08"
+}
+observations: """
+Last week's wins:
+* Jordan is really grasping the codebase now.
+* Miles fixed a critical production bug in 2 hours.
+
+What should change:
+- Kevin broke the staging environment and tried to hide it.
+- The 'AI Feature' is back on the table for Q4.
+
+This week's big 3 goals:
+1. Serious integrity talk with Kevin (hiding mistakes is a non-starter).
+2. Scope the AI feature with Product.
+3. Draft a job description for a Senior Eng (just in case Tara leaves).
+"""
+sentiment: negative
+comments: "Disappointed in Kevin. Hubris led him to break staging, but fear made him hide it. We lost a day of QA. I need to explain that 'Senior' engineers own their mistakes immediately."

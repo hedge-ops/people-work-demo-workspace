@@ -1,0 +1,21 @@
+event: {
+  name: "Weekly Planning"
+  date: "2025-07-14"
+}
+observations: """
+Last week's wins:
+* Tara didn't quit. She took the feedback quietly.
+* Kevin presented at the All-Hands (great visibility).
+* Jordan found a mentor outside the team (Hailey).
+
+What should change:
+- I'm doing too much IC work. Need to delegate.
+- Networking has stalled.
+
+This week's big 3 goals:
+1. Delegate the database migration plan to Kevin (good stretch goal).
+2. Coffee with VP of Product.
+3. Update my own brag doc.
+"""
+sentiment: positive
+comments: "Kevin is ready for more responsibility. Giving him the DB migration scares me a little, but he needs the growth. I feel relieved that Tara is at least listening, even if she's unhappy."

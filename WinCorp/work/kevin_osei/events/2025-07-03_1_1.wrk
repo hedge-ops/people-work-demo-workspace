@@ -1,0 +1,13 @@
+event: {
+  name: "1:1"
+  date: "2025-07-03"
+}
+observations: """
+Kevin working on distributed tracing improvements.
+His system design thinking continues to impress.
+Discussed Principal Engineer promotion timeline - realistic for 2026.
+"""
+sentiment: positive
+comments: """
+He's operating at Principal level already.
+"""

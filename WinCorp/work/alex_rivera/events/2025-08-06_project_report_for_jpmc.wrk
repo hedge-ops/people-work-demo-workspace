@@ -2,3 +2,10 @@ event: {
   name: "Project report for JPMC"
   date: "2025-08-06"
 }
+observations: """
+Completed project report for JPMC about Project Gravy Phase 3 architecture.
+Report covers our global deployment approach and performance improvements.
+JPMC interested in our authentication standardization work as well.
+"""
+sentiment: positive
+comments: "Good external visibility for our work. Strengthens the partnership."

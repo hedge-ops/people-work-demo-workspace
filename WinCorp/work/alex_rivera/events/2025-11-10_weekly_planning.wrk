@@ -1,0 +1,20 @@
+event: {
+  name: "Weekly Planning"
+  date: "2025-11-10"
+}
+observations: """
+Last week's wins:
+* Knowledge transfer is going better than expected. Tara is being professional.
+* Miles agreed to take ownership of the legacy payment service.
+
+What should change:
+- Recruitment is slow. HR says no new hires until Q1 2026.
+- I'm doing IC work again to cover the gaps.
+
+This week's big 3 goals:
+1. Finalize Tara's offboarding logistics.
+2. Team Farewell Lunch (keep it positive).
+3. Shield Jordan from the chaos; she looks worried about the workload.
+"""
+sentiment: negative
+comments: "Stressful week. Managing a departure while trying to secure my own promotion is hard. I have to show Ashley that the ship isn't sinking just because the Principal Engineer left. In fact, I need to show it's sailing *better*."

@@ -1,0 +1,13 @@
+event: {
+  name: "1:1"
+  date: "2025-11-25"
+}
+observations: """
+Thanksgiving week. Brief check-in only.
+Jordan taking time off for family.
+Well-deserved break.
+"""
+sentiment: neutral
+comments: """
+She's earned it.
+"""

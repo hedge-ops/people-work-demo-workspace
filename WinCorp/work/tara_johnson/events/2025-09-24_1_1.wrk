@@ -1,0 +1,13 @@
+event: {
+  name: "1:1"
+  date: "2025-09-24"
+}
+observations: """
+Conference talk prep going well. Tara practicing with the team.
+Auth Phase 2 kickoff scheduled for next week.
+Also identified architectural improvement for our caching layer.
+"""
+sentiment: positive
+comments: """
+Still contributing at technical level while leading broadly. Impressive.
+"""

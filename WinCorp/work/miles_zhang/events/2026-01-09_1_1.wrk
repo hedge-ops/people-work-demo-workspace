@@ -1,0 +1,13 @@
+event: {
+  name: "1:1"
+  date: "2026-01-09"
+}
+observations: """
+First 1:1 of 2026. Miles working on Q1 database planning.
+Daughter settling into college well.
+He's content with work-life balance.
+"""
+sentiment: positive
+comments: """
+Stability and contentment are valuable.
+"""

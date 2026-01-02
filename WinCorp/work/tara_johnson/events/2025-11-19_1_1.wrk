@@ -1,0 +1,13 @@
+event: {
+  name: "1:1"
+  date: "2025-11-19"
+}
+observations: """
+Thanksgiving week prep. Auth Phase 3 kickoff with Mobile team went well.
+Year-end review coming up - Tara's performance exceptional as Sr. Principal.
+Discussed 2026 goals and potential Distinguished Engineer path.
+"""
+sentiment: positive
+comments: """
+Distinguished Engineer is the right next step for her trajectory.
+"""
