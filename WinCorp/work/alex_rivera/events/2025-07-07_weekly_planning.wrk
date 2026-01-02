@@ -17,4 +17,4 @@ This week's big 3 goals:
 3. Connect with Cecil Parker on the dependency update.
 """
 sentiment: negative
-comments: "Dreading the conversation with Tara. She thinks she's crushing it, but the team finds her a bit difficult. If I tell her the truth, she might quit. If I don't, the team morale sinks. Management is hard."
+comments: "Dreading the conversation with Tara. The team feedback says she is 'blocking progress.' I know she is doing it to prevent bugs, but the team feels slowed down. I need to coach her on how to communicate those risks without discouraging the junior engineers."

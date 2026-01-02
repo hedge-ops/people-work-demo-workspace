@@ -4,9 +4,8 @@ event: {
 }
 observations: """
 Last week's wins:
-* Tara is gone. The transition was smooth.
-* Kevin stepped up and led the Architecture Review. He crushed it.
-* Jordan submitted her first PR to the core repo.
+* Paperwork signed. Tara is secure.
+* Kevin led the demo of the new system to stakeholders.
 
 What should change:
 - I'm tired. Looking forward to Thanksgiving break.
@@ -14,8 +13,16 @@ What should change:
 
 This week's big 3 goals:
 1. Write Kevin's promo justification (it's time).
-2. Clean up Jira backlog (post-Tara cleanup).
+2. Clean up Jira backlog.
 3. Prepare for holiday code freeze.
 """
 sentiment: positive
-comments: "The atmosphere on the team has completely changed. It's collaborative again. Kevin is leading, Miles is content, and Jordan feels safe to ask questions without being judged. It turns out Tara was a bigger blocker than I realized."
+comments: "Kevin has grown so much this year. Having Tara mentor him instead of critiquing him from afar was the key. He's ready for Senior, and Tara seems satisfied with her 'Staff Engineer' level impact."
+
+event: {
+  name: "Weekly Planning"
+  date: "2025-11-24"
+}
+observations: 'Short week. Thanksgiving. Wins: Code freeze is active. Goals: 1. Approve timecards. 2. Eat turkey. 3. Do not check Slack.'
+sentiment: positive
+comments: "Grateful for the team stability. Back in August, I thought this team was going to implode. pulling it back from the brink is my biggest win of the year."

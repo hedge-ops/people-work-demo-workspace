@@ -4,17 +4,17 @@ event: {
 }
 observations: """
 Last week's wins:
-* Knowledge transfer is going better than expected. Tara is being professional.
-* Miles agreed to take ownership of the legacy payment service.
+* Migration testing is looking green.
+* Tara caught a race condition that Kevin missed—but she used it as a teaching moment instead of just fixing it herself.
 
 What should change:
-- Recruitment is slow. HR says no new hires until Q1 2026.
-- I'm doing IC work again to cover the gaps.
+- HR is delaying the official paperwork for Tara's grant. I need to chase them.
+- I'm doing IC work again to cover some minor bugs.
 
 This week's big 3 goals:
-1. Finalize Tara's offboarding logistics.
-2. Team Farewell Lunch (keep it positive).
-3. Shield Jordan from the chaos; she looks worried about the workload.
+1. Pester HR until the paperwork is signed.
+2. Team Lunch to celebrate the project milestone.
+3. Shield Jordan from the Q4 pressure; she looks a little frayed.
 """
 sentiment: negative
-comments: "Stressful week. Managing a departure while trying to secure my own promotion is hard. I have to show Ashley that the ship isn't sinking just because the Principal Engineer left. In fact, I need to show it's sailing *better*."
+comments: "Administrative delays are annoying, but the vibes on the team are good. Miles and Tara are collaborating well now that the roles are defined. Tara sets the standard, Miles executes the optimization."

@@ -4,7 +4,7 @@ event: {
 }
 observations: """
 Last week's wins:
-* Team Holiday party was a blast. Even Miles stayed late.
+* Team Holiday party was a blast. Even Tara stayed for the karaoke.
 * The migration project is officially marked 'Complete'.
 
 What should change:
@@ -16,4 +16,4 @@ This week's big 3 goals:
 3. Thank you notes to stakeholders (Melissa, Kristina, Cecil).
 """
 sentiment: positive
-comments: "The year is effectively over. We survived. We shipped the migration, we onboarded Jordan, we handled an unfortunate departure, and we kept the site up. I'm proud of this group."
+comments: "The year is effectively over. We survived. We shipped the migration, we onboarded Jordan, and we kept the core team together. I'm proud of this group."
