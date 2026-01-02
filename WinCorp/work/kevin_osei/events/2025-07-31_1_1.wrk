@@ -1,0 +1,13 @@
+event: {
+  name: "1:1"
+  date: "2025-07-31"
+}
+observations: """
+Tracing implementation in progress. Clean architecture.
+Kevin presenting at engineering summit next month.
+Building company-wide visibility.
+"""
+sentiment: positive
+comments: """
+External visibility will support his promotion case.
+"""

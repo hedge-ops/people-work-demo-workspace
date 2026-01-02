@@ -1,0 +1,13 @@
+event: {
+  name: "1:1"
+  date: "2025-09-09"
+}
+observations: """
+Labor Day week. Brief check-in.
+Jordan working on promotion packet. Documenting accomplishments.
+Feeling confident about promotion case.
+"""
+sentiment: neutral
+comments: """
+She should be confident. Her work speaks for itself.
+"""

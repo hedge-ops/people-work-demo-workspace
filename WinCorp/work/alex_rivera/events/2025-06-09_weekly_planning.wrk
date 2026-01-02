@@ -1,0 +1,21 @@
+event: {
+  name: "Weekly Planning"
+  date: "2025-06-09"
+}
+observations: """
+Last week's wins:
+* Elijah agreed to pair with Jordan 2x a week.
+* Kevin identified a security flaw that would have bitten us hard.
+* Got positive feedback from Cecil Parker regarding our API stability.
+
+What should change:
+- Miles complained that Tara is 'over-architecting' the new service and blocking him.
+- I missed my gym session 3 times last week; need to prioritize self-care.
+
+This week's big 3 goals:
+1. Mediate the architectural dispute between Tara and Miles.
+2. Start the 'Brag Doc' for my Director promotion case.
+3. Lunch with Kristina Xuan to align on stakeholder expectations.
+"""
+sentiment: negative
+comments: "The friction between Miles and Tara is escalating. Miles just wants to code and go home, and he sees Tara's architectural reviews as 'process bloat.' Tara feels like she's the only one thinking about the long-term stability of the platform. Honestly, she's right, but her high standards are intimidating the rest of the team."

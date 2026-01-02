@@ -5,7 +5,3 @@ event: {
 observations: "Good discussion about Project Gravy coordination"
 sentiment: positive
 comments: "Ashley seems open to providing feedback on my leadership"
-// TODO: Need to add a manager matrix
-// mappings: {
-//     positive: [engineering_manager.requirements.communication.stakeholder_management]
-// }

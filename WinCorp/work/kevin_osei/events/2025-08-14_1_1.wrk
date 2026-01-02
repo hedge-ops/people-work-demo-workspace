@@ -1,0 +1,13 @@
+event: {
+  name: "1:1"
+  date: "2025-08-14"
+}
+observations: """
+Tracing system 70% complete. Performance excellent.
+Kevin's summit presentation approved.
+Also helping Tara with auth standardization design.
+"""
+sentiment: positive
+comments: """
+Cross-functional collaboration at senior level.
+"""

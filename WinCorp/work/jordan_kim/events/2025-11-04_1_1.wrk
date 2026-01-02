@@ -1,0 +1,13 @@
+event: {
+  name: "1:1"
+  date: "2025-11-04"
+}
+observations: """
+Feature nearing completion. Jordan's tech lead work has been excellent.
+She's grown so much from the anxious bootcamp grad of 2024.
+Already thinking about next challenges.
+"""
+sentiment: positive
+comments: """
+Remarkable two-year transformation.
+"""

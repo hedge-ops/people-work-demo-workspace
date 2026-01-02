@@ -1,0 +1,13 @@
+event: {
+  name: "1:1"
+  date: "2025-07-17"
+}
+observations: """
+Tracing system design complete. Platform team reviewing.
+Kevin also mentoring Jordan on tech lead skills.
+Balancing technical work with people development.
+"""
+sentiment: positive
+comments: """
+Force multiplier behavior. This is Principal work.
+"""

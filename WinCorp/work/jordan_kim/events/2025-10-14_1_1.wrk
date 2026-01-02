@@ -1,0 +1,13 @@
+event: {
+  name: "1:1"
+  date: "2025-10-14"
+}
+observations: """
+Jordan working on Senior responsibilities.
+Mentoring 2 junior engineers now.
+Leading architecture discussion for new feature.
+"""
+sentiment: positive
+comments: """
+She's stepping into the Senior role naturally.
+"""

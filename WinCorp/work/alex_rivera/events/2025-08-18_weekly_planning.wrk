@@ -1,0 +1,20 @@
+event: {
+  name: "Weekly Planning"
+  date: "2025-08-18"
+}
+observations: """
+Last week's wins:
+* Had the 'tough talk' with Tara. She agreed to soften her tone.
+* Kevin admitted he was stuck on the migration logic. Growth!
+
+What should change:
+- Ashley (my boss) is pushing for the 'AI Integration' feature sooner than planned.
+- I'm feeling burnout creeping in.
+
+This week's big 3 goals:
+1. Push back on Ashley regarding the AI timeline.
+2. Schedule a long weekend for myself.
+3. Code review for Miles (stay technical).
+"""
+sentiment: neutral
+comments: "I successfully managed up! I told Ashley we can't do the AI feature without dropping the migration. She respected the pushback. This is a Director-level skill: saying no strategically."

@@ -1,0 +1,13 @@
+event: {
+  name: "1:1"
+  date: "2025-11-20"
+}
+observations: """
+Infrastructure project progressing well.
+Promotion decision expected in December.
+Kevin focused on delivery, not distracted by waiting.
+"""
+sentiment: positive
+comments: """
+Professional maturity.
+"""

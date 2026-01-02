@@ -1,36 +1,68 @@
-user alex_rivera {}
+user alex_rivera {
+  overview: """
+Engineering Manager
+
+2026 goals:
+Director promotion, maintain team momentum, expand cross-org influence. 
+
+Reminders: 
+- document accomplishments for Ashley
+- invest in networking beyond immediate team
+- balance supporting others with own career growth
+"""
+}
 
 contact kevin_osei {
   group: guide
+  overview: "Recently promoted Principal Engineer (Jan 2026) with exceptional technical leadership skills. Help him establish company-wide impact, support his mentorship of senior engineers, and ensure he's positioned for continued growth. His systematic approach and business thinking make him valuable for strategic initiatives."
 }
 
 contact tara_johnson {
   group: guide
+  overview: """
+Senior Principal Engineer leading company-wide authentication standardization. 
+
+Help her succeed in expanded scope, prepare for Distinguished Engineer track, and leverage her growth journey to mentor others. Monitor work-life balance as responsibilities increase.
+"""
 }
 
 contact miles_zhang {
   group: guide
+  overview: """
+Senior Engineer who values work-life balance over promotion. Respect his priorities while ensuring fair compensation for his deep database expertise. 
+
+He's a stable, reliable force who mentors quietly and handles unglamorous but critical work. Support his daughter's college transition and family commitments.
+"""
 }
 
 contact jordan_kim {
   group: guide
+  overview: "Recently promoted Senior Engineer (Nov 2025) demonstrating strong tech lead potential. Support her growth into Staff Engineer track by providing stretch projects, mentorship opportunities, and visibility. She's transitioned from anxious bootcamp grad to confident technical leader in under 2 years."
 }
 
 // Manager
 contact melissa_anderson {
   group: align
+  overview: "Growing engineer in Align group showing steady progress in technical depth and cross-team collaboration. Provide opportunities for tech lead experience and help her build confidence in system design. She's methodical and asks good questions - support her learning journey."
 }
 
 // External network contacts
 contact hailey_smith {
   group: network
+  overview: """
+New contact from Network group interested in technical leadership development. 
+
+Explore potential mentorship or collaboration opportunities. Learn about her goals and how our teams might support each other.
+"""
 }
 
 contact elijah_gonzalez_hernandez {
   group: network
+  overview: "Network group colleague working on infrastructure improvements. His work on infrastructure could benefit our authentication standardization efforts. Connect him with Tara for technical discussions."
 }
 contact cecil_parker {
   group: partner
+  overview: "Partner group colleague. Maintain relationship for cross-team collaboration opportunities. Regular coffee catch-ups help identify potential projects and keep communication open between teams."
 }
 contact kristina_xuan {
   group: align

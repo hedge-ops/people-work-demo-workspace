@@ -1,0 +1,20 @@
+event: {
+  name: "Weekly Planning"
+  date: "2025-07-21"
+}
+observations: """
+Last week's wins:
+* Miles refactored the legacy module that everyone was afraid to touch.
+* Jordan seems more confident after talking to Hailey.
+
+What should change:
+- Kevin is overwhelmed by the migration but won't ask for help.
+- Tara's code review feedback volume is overwhelming Kevin. Need to facilitate alignment on priorities.
+
+This week's big 3 goals:
+1. Sit down with Kevin and break down the migration tasks.
+2. Address code review tone with the whole team (generic, not targeting Tara yet).
+3. Plan team offsite/fun event.
+"""
+sentiment: neutral
+comments: "Kevin's pride is a blocker. He wants to prove he's a Senior, so he's drowning silently. Tara has been flagging the flaws in his migration plan on GitHub. Her comments are technically perfect, but the volume of feedback is overwhelming Kevin. I need to facilitate a session where they can align on the 'Must Haves' vs 'Nice to Haves'."

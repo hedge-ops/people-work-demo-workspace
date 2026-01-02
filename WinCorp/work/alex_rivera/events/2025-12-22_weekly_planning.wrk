@@ -1,0 +1,27 @@
+event: {
+  name: "Weekly Planning"
+  date: "2025-12-22"
+}
+observations: 'Holiday week. Office is empty. I am only here to cover emergencies. Goals: 1. Read a management book. 2. Expense reports. 3. Go home early.'
+sentiment: positive
+comments: "Silence in the office. It's nice. Reflecting on the year: The turning point was listening to Tara rather than managing her tone. Lesson learned: High performers need agency."
+
+event: {
+  name: "Weekly Planning"
+  date: "2025-12-29"
+}
+observations: """
+Last week's wins:
+* Relaxed.
+* Reflected on 2025.
+
+What should change:
+- 2026 is coming. New goals: Director promotion, Expand the team, Keep momentum.
+
+This week's big 3 goals:
+1. Set up 2026 folder structure.
+2. Welcome everyone back on Friday (Jan 2).
+3. Draft 'State of the Union' email for the team.
+"""
+sentiment: positive
+comments: "Ready for 2026. I have a solid team. Kevin is stepping up, Jordan is capable, Miles is steady, and Tara is our anchor. Let's go."

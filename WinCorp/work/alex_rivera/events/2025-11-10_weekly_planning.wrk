@@ -1,0 +1,20 @@
+event: {
+  name: "Weekly Planning"
+  date: "2025-11-10"
+}
+observations: """
+Last week's wins:
+* Migration testing is looking green.
+* Tara caught a race condition that Kevin missed—but she used it as a teaching moment instead of just fixing it herself.
+
+What should change:
+- HR is delaying the official paperwork for Tara's grant. I need to chase them.
+- I'm doing IC work again to cover some minor bugs.
+
+This week's big 3 goals:
+1. Pester HR until the paperwork is signed.
+2. Team Lunch to celebrate the project milestone.
+3. Shield Jordan from the Q4 pressure; she looks a little frayed.
+"""
+sentiment: negative
+comments: "Administrative delays are annoying, but the vibes on the team are good. Miles and Tara are collaborating well now that the roles are defined. Tara sets the standard, Miles executes the optimization."

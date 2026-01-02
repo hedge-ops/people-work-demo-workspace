@@ -1,0 +1,20 @@
+event: {
+  name: "Weekly Planning"
+  date: "2025-07-28"
+}
+observations: """
+Last week's wins:
+* Team lunch was actually fun. Miles shared photos of his kids.
+* Kevin accepted help from Elijah on the DB schema.
+
+What should change:
+- My schedule is 80% meetings. No time for deep thinking.
+- Ashley (my boss) is asking for 'efficiency metrics'.
+
+This week's big 3 goals:
+1. Create metric dashboard for Ashley.
+2. Block out 'Deep Work' time on Tuesday/Thursday.
+3. Check in on Jordan's housing situation (she mentioned stress).
+"""
+sentiment: neutral
+comments: "I feel like a bureaucrat this week. Metrics, reports, politics. I miss building things. But I need to play the game to get that Director title. At least the team seems stable for the moment."

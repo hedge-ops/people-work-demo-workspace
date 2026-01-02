@@ -1,0 +1,21 @@
+event: {
+  name: "Weekly Planning"
+  date: "2025-06-16"
+}
+observations: """
+Last week's wins:
+* Jordan pushed her first significant feature!
+* Networking lunch with Kristina went well; she supports the cross-org initiative.
+* Cleared inbox by Friday afternoon.
+
+What should change:
+- Kevin is getting cocky. He dismissed a valid concern from QA as 'user error'.
+- Still haven't documented accomplishments for Ashley (my boss).
+
+This week's big 3 goals:
+1. Coaching convo with Kevin about humility vs. confidence.
+2. Force a 'clean slate' brainstorming session for the team.
+3. Finalize Q3 roadmap.
+"""
+sentiment: positive
+comments: "Better week. Seeing Jordan succeed was a highlight—she actually smiled. I need to watch Kevin; he's great, but his hubris could cause a major outage if he stops listening to others. I need to guide him without killing his drive."

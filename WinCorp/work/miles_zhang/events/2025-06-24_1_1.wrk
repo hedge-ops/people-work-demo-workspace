@@ -1,8 +1,0 @@
-event: {
-  name: "1:1"
-  date: "2025-08-24"
-  recurrence: {
-    starting: "2025-08-17"
-    repeats: "weekly"
-  }
-}

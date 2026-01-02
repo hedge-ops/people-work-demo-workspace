@@ -1,0 +1,20 @@
+event: {
+  name: "Weekly Planning"
+  date: "2025-10-13"
+}
+observations: """
+Last week's wins:
+* Ashley gave me positive feedback on my 'strategic thinking'.
+* Jordan is mentoring a new hire in another team on our API. Amazing growth!
+
+What should change:
+- Production incident on Tuesday (3rd party API down).
+- Managing the incident revealed we have poor alerting.
+
+This week's big 3 goals:
+1. Post-mortem for Tuesday's incident.
+2. Assign 'Alerting Overhaul' to Miles (he loves stability work).
+3. Dinner with Cecil Parker to strengthen cross-team bond.
+"""
+sentiment: positive
+comments: "Jordan mentoring someone else brought a tear to my eye. She's come so far from the scared new hire in June. This is the best part of the job."

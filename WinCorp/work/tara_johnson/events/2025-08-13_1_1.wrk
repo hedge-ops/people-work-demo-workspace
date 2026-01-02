@@ -1,0 +1,13 @@
+event: {
+  name: "1:1"
+  date: "2025-08-13"
+}
+observations: """
+Back from vacation refreshed. Auth standardization Phase 1 kicked off.
+Platform team implementing first, will be template for others.
+Tara also volunteered to speak at upcoming conference about Project Gravy.
+"""
+sentiment: positive
+comments: """
+Conference speaking is good for her career and company visibility.
+"""

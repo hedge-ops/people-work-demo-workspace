@@ -1,0 +1,20 @@
+event: {
+  name: "Weekly Planning"
+  date: "2025-08-11"
+}
+observations: """
+Last week's wins:
+* Miles optimized the search query, speed improved by 20%.
+* Jordan paired with Kevin and actually taught *him* a shortcut.
+
+What should change:
+- Tara pushed back hard on the roadmap in the group meeting. Morale dip.
+- I haven't updated my brag doc in a month.
+
+This week's big 3 goals:
+1. Damage control from Tara's comments in the team meeting.
+2. Force myself to write 3 bullet points for my promo packet.
+3. Lunch with Hailey Smith to thank her for mentoring Jordan.
+"""
+sentiment: negative
+comments: "Tara pushed back on the roadmap during the team meeting. She bluntly pointed out that the timeline sets us up for technical bankruptcy next year. It was an uncomfortable truth. Ashley (my boss) didn't like hearing it, but I need to back Tara up. She's looking out for our future health."

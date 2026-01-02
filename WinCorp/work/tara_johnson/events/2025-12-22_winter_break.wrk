@@ -1,0 +1,12 @@
+event: {
+  name: "Winter Break"
+  start: "2025-12-22"
+  end: "2026-01-03"
+}
+observations: """
+Tara out for winter holidays.
+"""
+sentiment: neutral
+comments: """
+Looking forward to 2026 and her continued growth.
+"""

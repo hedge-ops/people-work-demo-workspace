@@ -1,0 +1,13 @@
+event: {
+  name: "1:1"
+  date: "2025-09-19"
+}
+observations: """
+Miles working on backup/recovery testing.
+Found and fixed issue with recovery procedures.
+This could have been critical in emergency.
+"""
+sentiment: positive
+comments: """
+His thoroughness prevents problems.
+"""

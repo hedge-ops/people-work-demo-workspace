@@ -1,0 +1,8 @@
+event: {
+  name: "Weekly Planning"
+  date: "2026-01-05"
+  recurrence: {
+    starting: "2026-01-05"
+    repeats: "weekly"
+  }
+}

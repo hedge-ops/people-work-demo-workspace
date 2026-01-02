@@ -1,0 +1,13 @@
+event: {
+  name: "1:1"
+  date: "2025-12-15"
+}
+observations: """
+Last 1:1 of 2025. Melissa reflecting on year.
+Good year of learning and contribution.
+Ready for more responsibility in 2026.
+"""
+sentiment: positive
+comments: """
+Steady growth trajectory.
+"""

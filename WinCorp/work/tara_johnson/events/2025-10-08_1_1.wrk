@@ -1,0 +1,13 @@
+event: {
+  name: "1:1"
+  date: "2025-10-08"
+}
+observations: """
+Conference next week. Tara's talk is polished and ready.
+Auth Phase 2 started with Security team. Early progress good.
+She's excited about representing the company externally.
+"""
+sentiment: positive
+comments: """
+This visibility will be valuable for her career trajectory.
+"""

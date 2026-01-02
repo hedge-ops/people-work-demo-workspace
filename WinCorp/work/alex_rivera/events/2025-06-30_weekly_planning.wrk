@@ -1,0 +1,7 @@
+event: {
+  name: "Weekly Planning"
+  date: "2025-06-30"
+}
+observations: "Last week was a blur. Q3 planning consumed everything. Wins: Roadmap locked. Change: Need less meetings. Goals: 1. Mid-year reviews. 2. Fix build pipeline. 3. Sleep."
+sentiment: negative
+comments: "Exhausted. The mental load of managing people's emotions (Jordan's fear, Kevin's ambition, Tara's career concerns) is heavy right now."

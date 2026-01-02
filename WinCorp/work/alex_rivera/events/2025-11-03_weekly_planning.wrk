@@ -1,0 +1,21 @@
+event: {
+  name: "Weekly Planning"
+  date: "2025-11-03"
+}
+observations: """
+Last week's wins:
+* Tara accepted the retention package! She's officially staying.
+* Kevin's migration project hit the 80% mark.
+* Jordan handled the on-call handoff perfectly.
+
+What should change:
+- Now that the retention decision is settled is over, we need to focus purely on execution.
+- Miles is asking for clarity on the holiday schedule.
+
+This week's big 3 goals:
+1. Milestone review for the Migration project (Tara leading).
+2. 1:1 with Kevin to prep him for the final push.
+3. Sync with Ashley on Q1 headcount (now that we don't need a backfill).
+"""
+sentiment: neutral
+comments: "Massive relief. Tara is locked in. She actually thanked me for fighting for her comp adjustment. It's built a lot of trust. Now I can sleep at night knowing my architecture is safe."

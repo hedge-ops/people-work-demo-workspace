@@ -1,0 +1,13 @@
+event: {
+  name: "1:1"
+  date: "2025-12-04"
+}
+observations: """
+Excellent news! Principal Engineer promotion approved!
+Effective January 1, 2026. Kevin thrilled.
+Discussed Principal-level expectations and scope.
+"""
+sentiment: positive
+comments: """
+Well-deserved. His impact has been exceptional.
+"""

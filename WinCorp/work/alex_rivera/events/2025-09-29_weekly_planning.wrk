@@ -1,0 +1,20 @@
+event: {
+  name: "Weekly Planning"
+  date: "2025-09-29"
+}
+observations: """
+Last week's wins:
+* Workshop was great; met a peer from the Mobile org.
+* Jordan shipped her first mid-sized feature without bugs!
+
+What should change:
+- Tara asked for a reference letter. The writing is on the wall.
+- Kevin is stressing about the timeline for the migration.
+
+This week's big 3 goals:
+1. Discuss transition plan with Tara (hypothetically).
+2. Cut scope from Kevin's migration project.
+3. Q4 Kickoff meeting.
+"""
+sentiment: neutral
+comments: "Tara asking for a reference confirms it. She's looking. It's a wake-up call. I haven't been able to get her the pay adjustment she wanted, and I've consistently asked her to compromise on quality to hit deadlines. I can't blame her for looking for a role that values her strategic input more."

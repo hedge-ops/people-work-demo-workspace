@@ -1,0 +1,20 @@
+event: {
+  name: "Weekly Planning"
+  date: "2025-06-23"
+}
+observations: """
+Last week's wins:
+* Roadmap approved by Melissa.
+* Miles is consistently delivering, solid as a rock.
+* Kevin took the feedback on humility well (I think).
+
+What should change:
+- Jordan mentioned she feels like a 'burden' to Elijah.
+
+This week's big 3 goals:
+1. Reassure Jordan that asking questions is her job right now.
+2. Prepare Ashley for Tara's feedback.
+3. Schedule mid-year performance check-ins.
+"""
+sentiment: neutral
+comments: "Tara requested a skip-level with Ashley. I should ensure I'm aligned with her on expectations."

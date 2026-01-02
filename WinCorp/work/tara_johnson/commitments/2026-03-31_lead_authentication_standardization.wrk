@@ -1,0 +1,34 @@
+commitment: {
+  name: "Lead Authentication Standardization"
+  owner: theirs
+  start: "2025-09-01"
+  end: "2026-03-31"
+}
+observations: """
+Tara committed to leading authentication standardization across all products.
+Rollout plan:
+- Phase 1: Platform team (August-September)
+- Phase 2: Security team (October)
+- Phase 3: Mobile team (November-December)
+- Phase 4: Remaining teams (Q1 2026)
+
+This is company-wide impact work.
+
+Phase 1 complete with Platform team. Excellent execution.
+Phase 2 kickoff with Security team scheduled for next week.
+Early feedback from Platform team very positive - patterns working well.
+
+Phase 2 complete with Security team. Implementation smooth.
+Phase 3 starting with Mobile team.
+Security team reported 30% reduction in auth-related bugs after migration.
+
+Phase 3 complete with Mobile team as of January.
+Planning Phase 4 rollout to remaining 4 teams for Q1.
+Total progress: 60% of teams migrated successfully.
+"""
+sentiment: positive
+comments: """
+Strong start. She's managing the rollout effectively.
+Tangible business impact. This is valuable work.
+On track for Q1 2026 completion. Excellent progress.
+"""

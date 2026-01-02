@@ -1,0 +1,13 @@
+event: {
+  name: "1:1"
+  date: "2025-08-19"
+}
+observations: """
+SDK improvements nearing completion. Good collaboration with mobile team.
+Jordan also mentoring summer intern on testing practices.
+Balancing delivery with team development.
+"""
+sentiment: positive
+comments: """
+She's operating like a Senior already.
+"""

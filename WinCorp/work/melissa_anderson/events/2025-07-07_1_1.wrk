@@ -1,0 +1,13 @@
+event: {
+  name: "1:1"
+  date: "2025-07-07"
+}
+observations: """
+Melissa working on API integration with partner systems.
+Good progress on complex integration work.
+Asked thoughtful questions about error handling.
+"""
+sentiment: positive
+comments: """
+She's growing in technical depth.
+"""

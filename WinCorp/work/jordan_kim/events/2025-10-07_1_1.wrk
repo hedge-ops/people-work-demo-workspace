@@ -1,0 +1,13 @@
+event: {
+  name: "1:1"
+  date: "2025-10-07"
+}
+observations: """
+Great news! Senior Engineer promotion approved!
+Effective November 1. Jordan was thrilled.
+Discussed Senior-level expectations and responsibilities.
+"""
+sentiment: positive
+comments: """
+Well-deserved. She's earned this promotion.
+"""

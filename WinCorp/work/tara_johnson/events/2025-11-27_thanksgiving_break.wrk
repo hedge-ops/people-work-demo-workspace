@@ -1,0 +1,12 @@
+event: {
+  name: "Thanksgiving Break"
+  start: "2025-11-27"
+  end: "2025-11-29"
+}
+observations: """
+Tara out for Thanksgiving holiday with family.
+"""
+sentiment: neutral
+comments: """
+Well-earned break after strong year.
+"""

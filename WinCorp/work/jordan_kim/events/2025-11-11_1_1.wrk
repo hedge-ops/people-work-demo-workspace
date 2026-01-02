@@ -1,0 +1,13 @@
+event: {
+  name: "1:1"
+  date: "2025-11-11"
+}
+observations: """
+Feature complete and shipped. Zero production issues.
+Jordan's first tech lead project was a success.
+Team gave positive feedback about her leadership.
+"""
+sentiment: positive
+comments: """
+Strong start as Senior Engineer.
+"""

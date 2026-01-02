@@ -1,0 +1,13 @@
+event: {
+  name: "1:1"
+  date: "2025-10-28"
+}
+observations: """
+Feature implementation 50% complete. Team executing well under Jordan's lead.
+She's handling blockers proactively.
+Good delegation and coordination.
+"""
+sentiment: positive
+comments: """
+Natural technical leadership.
+"""

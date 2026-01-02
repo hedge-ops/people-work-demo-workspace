@@ -1,0 +1,13 @@
+event: {
+  name: "1:1"
+  date: "2025-12-02"
+}
+observations: """
+Year-end review prep. Jordan's growth has been exceptional.
+From uncertain new hire to confident Senior Engineer.
+Discussed 2026 goals: staff engineer exploration, technical leadership expansion.
+"""
+sentiment: positive
+comments: """
+One of the best hiring decisions I've made.
+"""

@@ -1,0 +1,19 @@
+event: {
+  name: "Weekly Planning"
+  date: "2025-12-01"
+}
+observations: """
+Last week's wins:
+* Zero incidents over the holiday weekend.
+* Tara proactively patched a vulnerability before anyone else saw it.
+
+What should change:
+- It's performance review season. Writing reviews for 4 people takes forever.
+
+This week's big 3 goals:
+1. Draft reviews for Kevin (Promo), Jordan (Exceeds), Miles (Meets), Tara (Exceeds).
+2. Submit Q1 2026 Headcount Request.
+3. 1:1 with Ashley: The final push for my Director role.
+"""
+sentiment: neutral
+comments: "Writing Tara's review is easy now. 'Essential to the stability of the platform.' Writing Kevin's is fun—he earned it. Jordan is the rising star. I feel good about these."
