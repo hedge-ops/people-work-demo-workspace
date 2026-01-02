@@ -23,6 +23,6 @@ event: {
   name: "Weekly Planning"
   date: "2025-11-24"
 }
-observations: 'Short week. Thanksgiving. Wins: Code freeze is active. Goals: 1. Approve timecards. 2. Eat turkey. 3. Do not check Slack.'
+observations: "Short week. Thanksgiving. Wins: Code freeze is active. Goals: 1. Approve timecards. 2. Eat turkey. 3. Do not check Slack."
 sentiment: positive
 comments: "Grateful for the team stability. Back in August, I thought this team was going to implode. pulling it back from the brink is my biggest win of the year."
