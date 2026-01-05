@@ -68,14 +68,38 @@ contact kristina_xuan {
   group: align
 }
 group network {
-  overview: "Build and maintain professional relationships for mutual growth and opportunity. Current: Elijah Gonzalez Hernandez, Hailey Smith. Focus on authentic connection, periodic check-ins, helping where possible. These relationships provide future opportunities, different perspectives, and career resilience."
+  overview: """
+Build and maintain professional relationships for mutual growth and opportunity. 
+
+Current: Elijah Gonzalez Hernandez, Hailey Smith
+
+Focus on authentic connection, periodic check-ins, helping where possible. These relationships provide future opportunities, different perspectives, and career resilience.
+"""
 }
 group align {
-  overview: "Ensure alignment on priorities, expectations, and deliverables. Keep stakeholders informed and engaged. Current: Melissa Anderson. Focus on ensuring she has clear direction, understands priorities, and has the support needed to execute. Build trust through consistent communication and follow-through on commitments."
+  overview: """
+Ensure alignment on priorities, expectations, and deliverables. Keep stakeholders informed and engaged. 
+
+Current: Melissa Anderson, Kristina Xuan
+
+Focus on ensuring she has clear direction, understands priorities, and has the support needed to execute. Build trust through consistent communication and follow-through on commitments.
+"""
 }
 group partner {
-  overview: "Collaborate as peers to achieve shared goals. Mutual support and knowledge-sharing. Current: Cecil Parker, Kristina Xuan. Focus on building genupeer relationships, finding win-win collaboration opportunities, sharknowledge and resources. These relationships enable cross-team success."
+  overview: """
+Collaborate as peers to achieve shared goals. Mutual support and knowledge-sharing. 
+
+Current: Cecil Parker, Kristina Xuan. 
+
+Focus on building genupeer relationships, finding win-win collaboration opportunities, sharknowledge and resources. These relationships enable cross-team success.
+"""
 }
 group guide {
-  overview: "Build and maintain professional relationships for mutual growth and opportunity. Current: Elijah Gonzalez Hernandez, Hailey Smith. Focus on authentic connection, periodic check-ins, helping where possible. These relationships provide future opportunities, different perspectives, and career resilience."
+  overview: """
+Give them the leadership and guidance they need to thrive. What are their blockers? What learning and development goals do I need to help them to meet? 
+
+Current team: Tara (Sr. Principal), Jordan (Senior), Kevin (Principal), Miles (Senior). 
+
+Focus on individual growth paths, remove obstacles, create stretch opportunities. Team has transformed from dysfunctional to high-performing - maintain momentum and culture.
+"""
 }
