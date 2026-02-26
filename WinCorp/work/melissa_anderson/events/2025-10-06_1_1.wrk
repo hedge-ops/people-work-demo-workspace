@@ -1,4 +1,5 @@
 event: {
+  id: "aff3b08b-b317-4991-93e3-4303e0b184ef"
   name: "1:1"
   date: "2025-10-06"
 }
@@ -8,6 +9,4 @@ Making operations data more accessible.
 Thinking about team efficiency.
 """
 sentiment: positive
-comments: """
-Operational improvements benefit everyone.
-"""
+comments: "Operational improvements benefit everyone."

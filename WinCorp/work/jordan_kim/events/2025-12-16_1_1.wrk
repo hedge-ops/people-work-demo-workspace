@@ -1,4 +1,5 @@
 event: {
+  id: "96c2b30a-5863-407a-a7ef-16709fdb03c8"
   name: "1:1"
   date: "2025-12-16"
 }
@@ -8,6 +9,4 @@ Senior promotion, successful tech lead project, mentoring others.
 Taking holidays off to celebrate with family.
 """
 sentiment: positive
-comments: """
-What a year for her. Excited for her 2026.
-"""
+comments: "What a year for her. Excited for her 2026."

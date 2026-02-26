@@ -1,4 +1,5 @@
 event: {
+  id: "8095c0b2-e4b3-4b4c-b1dd-e2cb8d8de477"
   name: "1:1"
   date: "2025-07-17"
 }
@@ -8,6 +9,4 @@ Kevin also mentoring Jordan on tech lead skills.
 Balancing technical work with people development.
 """
 sentiment: positive
-comments: """
-Force multiplier behavior. This is Principal work.
-"""
+comments: "Force multiplier behavior. This is Principal work."

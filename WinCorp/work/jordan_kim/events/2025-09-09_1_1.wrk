@@ -1,4 +1,5 @@
 event: {
+  id: "5eb48673-acfa-4ce7-ae68-ba1a7ecbd3db"
   name: "1:1"
   date: "2025-09-09"
 }
@@ -8,6 +9,4 @@ Jordan working on promotion packet. Documenting accomplishments.
 Feeling confident about promotion case.
 """
 sentiment: neutral
-comments: """
-She should be confident. Her work speaks for itself.
-"""
+comments: "She should be confident. Her work speaks for itself."

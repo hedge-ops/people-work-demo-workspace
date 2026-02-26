@@ -1,4 +1,5 @@
 event: {
+  id: "734d4b2a-17f7-4110-a553-0eeb1e8fbb28"
   name: "1:1"
   date: "2025-11-05"
 }
@@ -9,6 +10,4 @@ save significant CI/CD costs.
 Leadership interested in her proposal.
 """
 sentiment: positive
-comments: """
-Always thinking about efficiency and business impact.
-"""
+comments: "Always thinking about efficiency and business impact."

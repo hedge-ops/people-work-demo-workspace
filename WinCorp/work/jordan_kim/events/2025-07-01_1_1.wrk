@@ -1,4 +1,5 @@
 event: {
+  id: "86a7ab3a-dd1a-49e3-a009-22a280da38e5"
   name: "1:1"
   date: "2025-07-01"
 }
@@ -8,6 +9,4 @@ Her code quality continues to be excellent. Minimal review feedback.
 Discussed her progress toward Senior Engineer goals.
 """
 sentiment: positive
-comments: """
-She's operating at Engineer III level consistently now.
-"""
+comments: "She's operating at Engineer III level consistently now."

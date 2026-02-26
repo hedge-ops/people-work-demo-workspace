@@ -1,4 +1,5 @@
 event: {
+  id: "ed1b7cde-2ae9-4d9a-acea-aa913fb1f41c"
   name: "1:1"
   date: "2025-11-18"
 }
@@ -8,6 +9,4 @@ She's reflecting on her journey from Engineer II to Senior in under 2 years.
 Grateful for mentorship and opportunities.
 """
 sentiment: positive
-comments: """
-Her humility and growth mindset will serve her well.
-"""
+comments: "Her humility and growth mindset will serve her well."

@@ -1,4 +1,5 @@
 event: {
+  id: "4185f656-cc41-4128-b3c0-082c0596fae7"
   name: "1:1"
   date: "2025-10-14"
 }
@@ -8,6 +9,4 @@ Mentoring 2 junior engineers now.
 Leading architecture discussion for new feature.
 """
 sentiment: positive
-comments: """
-She's stepping into the Senior role naturally.
-"""
+comments: "She's stepping into the Senior role naturally."

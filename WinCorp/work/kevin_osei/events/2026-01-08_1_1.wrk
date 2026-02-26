@@ -1,4 +1,5 @@
 event: {
+  id: "36d742ed-953e-4433-9427-a3460c56007f"
   name: "1:1"
   date: "2026-01-08"
 }
@@ -8,6 +9,4 @@ Kevin energized about expanded scope.
 Leading company-wide performance optimization initiative.
 """
 sentiment: positive
-comments: """
-Starting Principal role strong.
-"""
+comments: "Starting Principal role strong."

@@ -1,4 +1,5 @@
 event: {
+  id: "b46982d7-285d-47b1-9ba5-da8a22f723fe"
   name: "1:1"
   date: "2025-08-26"
 }
@@ -8,6 +9,4 @@ Jordan received kudos from mobile team for collaboration.
 Starting Senior promotion packet preparation.
 """
 sentiment: positive
-comments: """
-Ready to advocate for her promotion.
-"""
+comments: "Ready to advocate for her promotion."

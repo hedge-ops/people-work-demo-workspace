@@ -1,4 +1,5 @@
 event: {
+  id: "19ac2a80-d051-49f2-8162-1f6ac279c084"
   name: "1:1"
   date: "2025-11-17"
 }
@@ -8,6 +9,4 @@ Melissa found several optimization opportunities.
 Proactive system improvement.
 """
 sentiment: positive
-comments: """
-Always looking for ways to make things better.
-"""
+comments: "Always looking for ways to make things better."

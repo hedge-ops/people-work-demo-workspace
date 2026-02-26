@@ -1,4 +1,5 @@
 event: {
+  id: "2817c8b7-adb1-42d6-b4a3-3a74a9cb91be"
   name: "1:1"
   date: "2025-07-31"
 }
@@ -8,6 +9,4 @@ Kevin presenting at engineering summit next month.
 Building company-wide visibility.
 """
 sentiment: positive
-comments: """
-External visibility will support his promotion case.
-"""
+comments: "External visibility will support his promotion case."

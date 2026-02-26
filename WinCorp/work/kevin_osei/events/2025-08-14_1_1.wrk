@@ -1,4 +1,5 @@
 event: {
+  id: "016c55b1-c3f7-45db-8c60-222b13c011d7"
   name: "1:1"
   date: "2025-08-14"
 }
@@ -8,6 +9,4 @@ Kevin's summit presentation approved.
 Also helping Tara with auth standardization design.
 """
 sentiment: positive
-comments: """
-Cross-functional collaboration at senior level.
-"""
+comments: "Cross-functional collaboration at senior level."

@@ -1,4 +1,5 @@
 event: {
+  id: "8eeac977-afbe-4235-928e-5fbb9ca71d44"
   name: "1:1"
   date: "2025-08-18"
 }
@@ -8,6 +9,4 @@ Learning about our data infrastructure.
 Asking good questions to build understanding.
 """
 sentiment: positive
-comments: """
-Intellectual curiosity is strong.
-"""
+comments: "Intellectual curiosity is strong."

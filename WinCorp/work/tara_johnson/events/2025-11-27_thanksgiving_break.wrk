@@ -1,12 +1,9 @@
 event: {
+  id: "f0a3c5e0-478a-45d5-a88b-27871cfee5e6"
   name: "Thanksgiving Break"
   start: "2025-11-27"
   end: "2025-11-29"
 }
-observations: """
-Tara out for Thanksgiving holiday with family.
-"""
+observations: "Tara out for Thanksgiving holiday with family."
 sentiment: neutral
-comments: """
-Well-earned break after strong year.
-"""
+comments: "Well-earned break after strong year."

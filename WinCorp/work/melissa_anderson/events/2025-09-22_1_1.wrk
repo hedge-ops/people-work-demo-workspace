@@ -1,4 +1,5 @@
 event: {
+  id: "17406513-897a-42c1-bb9b-d2149d71dfdd"
   name: "1:1"
   date: "2025-09-22"
 }
@@ -8,6 +9,4 @@ Sharing what she's learned about our systems.
 Paying forward the help she received.
 """
 sentiment: positive
-comments: """
-Team development contributions.
-"""
+comments: "Team development contributions."

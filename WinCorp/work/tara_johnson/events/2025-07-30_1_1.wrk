@@ -1,4 +1,5 @@
 event: {
+  id: "542a6574-df60-4f04-b8c9-a57bb4349f7a"
   name: "1:1"
   date: "2025-07-30"
 }
@@ -8,6 +9,4 @@ Auth standardization planning progressing. Timeline set for 6-month rollout.
 Vacation coming up in August - she's earned it.
 """
 sentiment: positive
-comments: """
-She's become a force multiplier for the organization.
-"""
+comments: "She's become a force multiplier for the organization."

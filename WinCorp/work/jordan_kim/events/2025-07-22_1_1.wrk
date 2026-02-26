@@ -1,4 +1,5 @@
 event: {
+  id: "d211a07e-6099-4998-ae5b-3c9a17685f25"
   name: "1:1"
   date: "2025-07-22"
 }
@@ -8,6 +9,4 @@ Jordan also identified potential security issue during code review.
 Proactive thinking about system robustness.
 """
 sentiment: positive
-comments: """
-Her instincts for good engineering are strong.
-"""
+comments: "Her instincts for good engineering are strong."

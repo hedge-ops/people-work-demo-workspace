@@ -1,4 +1,5 @@
 event: {
+  id: "14b67d7d-3966-44a0-94d5-cbfc0ec0cb09"
   name: "1:1"
   date: "2025-12-02"
 }
@@ -8,6 +9,4 @@ From uncertain new hire to confident Senior Engineer.
 Discussed 2026 goals: staff engineer exploration, technical leadership expansion.
 """
 sentiment: positive
-comments: """
-One of the best hiring decisions I've made.
-"""
+comments: "One of the best hiring decisions I've made."

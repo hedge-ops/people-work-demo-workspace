@@ -1,4 +1,5 @@
 event: {
+  id: "f64c926d-379c-4c42-8b32-dc10276161c9"
   name: "1:1"
   date: "2025-10-28"
 }
@@ -8,6 +9,4 @@ She's handling blockers proactively.
 Good delegation and coordination.
 """
 sentiment: positive
-comments: """
-Natural technical leadership.
-"""
+comments: "Natural technical leadership."

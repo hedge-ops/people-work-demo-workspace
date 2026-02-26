@@ -1,4 +1,5 @@
 event: {
+  id: "0bccd8e6-636e-43fd-811d-6469759f1273"
   name: "1:1"
   date: "2025-11-14"
 }
@@ -8,6 +9,4 @@ Removing deprecated tables and optimizing schemas.
 Housekeeping that others avoid.
 """
 sentiment: positive
-comments: """
-He takes pride in unglamorous but necessary work.
-"""
+comments: "He takes pride in unglamorous but necessary work."

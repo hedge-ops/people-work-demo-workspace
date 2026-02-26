@@ -1,4 +1,5 @@
 commitment: {
+  id: "0f9b29e1-4c43-433f-bc86-b4c8d233cde4"
   name: "Summer Team Offsite"
   owner: mine
   date: "2025-08-15"
@@ -13,6 +14,4 @@ Planning summer team offsite for mid-August. Goals:
 Booked venue at Chautauqua Park for August 15.
 """
 sentiment: positive
-comments: """
-Team has earned a celebration. Also good time for H2 planning.
-"""
+comments: "Team has earned a celebration. Also good time for H2 planning."

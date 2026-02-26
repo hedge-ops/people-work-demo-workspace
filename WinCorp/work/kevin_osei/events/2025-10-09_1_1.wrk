@@ -1,4 +1,5 @@
 event: {
+  id: "ae41e983-97d8-425f-b903-d74d77e3069d"
   name: "1:1"
   date: "2025-10-09"
 }
@@ -8,6 +9,4 @@ Also proposed improvement to our deployment automation.
 Always thinking about engineering efficiency.
 """
 sentiment: positive
-comments: """
-Business impact plus technical excellence.
-"""
+comments: "Business impact plus technical excellence."

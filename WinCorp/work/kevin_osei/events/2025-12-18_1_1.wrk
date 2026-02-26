@@ -1,4 +1,5 @@
 event: {
+  id: "23668692-dee4-4896-8cf3-41142effa1f4"
   name: "1:1"
   date: "2025-12-18"
 }
@@ -8,6 +9,4 @@ From Engineer III to Principal in 3 years.
 Ready for expanded Principal scope in 2026.
 """
 sentiment: positive
-comments: """
-Outstanding trajectory. Excited for his 2026.
-"""
+comments: "Outstanding trajectory. Excited for his 2026."

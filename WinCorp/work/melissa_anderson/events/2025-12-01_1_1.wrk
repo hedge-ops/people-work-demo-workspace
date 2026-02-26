@@ -1,4 +1,5 @@
 event: {
+  id: "19106b78-0489-4f07-877d-4c1e5fd3e39f"
   name: "1:1"
   date: "2025-12-01"
 }
@@ -8,6 +9,4 @@ Consistent solid contributions throughout year.
 Discussed 2026 growth goals.
 """
 sentiment: positive
-comments: """
-Reliable performer.
-"""
+comments: "Reliable performer."

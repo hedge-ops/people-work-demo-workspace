@@ -1,4 +1,5 @@
 event: {
+  id: "2ee2ff3e-4d5b-4fe3-9a57-cfcf6da9647f"
   name: "1:1"
   date: "2025-07-02"
 }
@@ -9,6 +10,4 @@ from architecture review board.
 Also coordinating with 3 teams on implementation timeline.
 """
 sentiment: positive
-comments: """
-She's handling the increased scope confidently. Big change from a year ago.
-"""
+comments: "She's handling the increased scope confidently. Big change from a year ago."

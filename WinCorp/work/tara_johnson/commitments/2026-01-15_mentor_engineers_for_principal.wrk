@@ -1,4 +1,5 @@
 commitment: {
+  id: "6e0eb4eb-f21f-41e4-9db9-3dc07ba91700"
   name: "Mentor Engineers for Principal Promotion"
   owner: mine
   start: "2026-01-15"
@@ -16,6 +17,4 @@ Mentorship includes:
 - Promotion packet preparation
 """
 sentiment: positive
-comments: """
-She's the perfect person for this. Her own journey makes her relatable.
-"""
+comments: "She's the perfect person for this. Her own journey makes her relatable."

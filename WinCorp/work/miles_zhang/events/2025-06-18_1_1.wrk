@@ -1,4 +1,5 @@
 event: {
+  id: "92651508-8bab-4c51-b236-7c8cd5175f33"
   name: "1:1"
   date: "2025-08-18"
   recurrence: {

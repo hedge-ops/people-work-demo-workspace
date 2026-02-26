@@ -1,12 +1,9 @@
 event: {
+  id: "2e866c40-de33-4636-8257-78e766cefd77"
   name: "Labor Day"
   start: "2025-09-01"
   end: "2025-09-01"
 }
-observations: """
-Melissa out for Labor Day holiday.
-"""
+observations: "Melissa out for Labor Day holiday."
 sentiment: neutral
-comments: """
-Glad she's taking a break.
-"""
+comments: "Glad she's taking a break."

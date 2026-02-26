@@ -1,4 +1,5 @@
 event: {
+  id: "b0c541cf-2007-4fac-a3b3-563bf889fa72"
   name: "1:1"
   date: "2025-10-21"
 }
@@ -8,6 +9,4 @@ She's coordinating 3 engineers on the feature.
 First experience as tech lead going well.
 """
 sentiment: positive
-comments: """
-Tech lead skills emerging.
-"""
+comments: "Tech lead skills emerging."

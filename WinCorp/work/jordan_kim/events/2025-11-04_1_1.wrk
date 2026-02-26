@@ -1,4 +1,5 @@
 event: {
+  id: "ec3ad21e-3ca2-4dd2-baac-b1f247802ca1"
   name: "1:1"
   date: "2025-11-04"
 }
@@ -8,6 +9,4 @@ She's grown so much from the anxious bootcamp grad of 2024.
 Already thinking about next challenges.
 """
 sentiment: positive
-comments: """
-Remarkable two-year transformation.
-"""
+comments: "Remarkable two-year transformation."

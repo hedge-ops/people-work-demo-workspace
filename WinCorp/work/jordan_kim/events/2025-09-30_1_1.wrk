@@ -1,4 +1,5 @@
 event: {
+  id: "28d951a9-d428-4d4a-9b44-640d24948468"
   name: "1:1"
   date: "2025-09-30"
 }
@@ -8,6 +9,4 @@ Jordan's work continues to be high quality during promotion review.
 Promotion decision expected next week.
 """
 sentiment: positive
-comments: """
-Consistent performance regardless of external factors.
-"""
+comments: "Consistent performance regardless of external factors."

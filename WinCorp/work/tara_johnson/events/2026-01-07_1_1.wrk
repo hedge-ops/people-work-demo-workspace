@@ -1,8 +1,9 @@
 event: {
+  id: "332f8fda-7942-4f8b-842d-d546e74d7b29"
   name: "1:1"
   date: "2026-01-07"
   recurrence: {
     starting: "2025-08-24"
-    repeats: "every 1 week"
+    repeats: "weekly"
   }
 }

@@ -1,4 +1,5 @@
 event: {
+  id: "92e267e0-0ae2-4d40-896f-51b2287864b5"
   name: "1:1"
   date: "2025-07-29"
 }
@@ -8,6 +9,4 @@ Jordan volunteered to present at next engineering all-hands.
 Growing confidence in public speaking.
 """
 sentiment: positive
-comments: """
-Leadership emergence is natural for her.
-"""
+comments: "Leadership emergence is natural for her."

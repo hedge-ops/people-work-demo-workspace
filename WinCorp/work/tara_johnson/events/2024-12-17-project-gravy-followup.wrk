@@ -1,10 +1,13 @@
 event: {
-    name: "Slack follow up about Project Gravy stakeholder meeting"
-    date: "2024-12-17"
+  id: "14290942-b170-48e8-9d76-b937ae29f23f"
+  name: "Slack follow up about Project Gravy stakeholder meeting"
+  date: "2024-12-17"
 }
 observations: "Project is back on track"
 sentiment: positive
 comments: "Feeling better about Tara's progress"
 // mappings: {
+
 //     positive: [principal_engineer.requirements.project_execution.leadership]
+
 // }

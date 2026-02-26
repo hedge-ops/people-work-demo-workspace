@@ -1,12 +1,9 @@
 event: {
+  id: "2e314dac-32c2-4bd1-a078-ffbde8f3f424"
   name: "Independence Day"
   start: "2025-07-04"
   end: "2025-07-04"
 }
-observations: """
-Miles out for July 4th holiday.
-"""
+observations: "Miles out for July 4th holiday."
 sentiment: neutral
-comments: """
-Glad he's taking a break.
-"""
+comments: "Glad he's taking a break."

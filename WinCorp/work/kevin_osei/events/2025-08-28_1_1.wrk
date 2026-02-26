@@ -1,4 +1,5 @@
 event: {
+  id: "010907c5-7946-4bad-9f3f-cf9d3245c4fb"
   name: "1:1"
   date: "2025-08-28"
 }
@@ -8,6 +9,4 @@ This will benefit every engineering team.
 Major impact achievement.
 """
 sentiment: positive
-comments: """
-Significant company-wide contribution.
-"""
+comments: "Significant company-wide contribution."

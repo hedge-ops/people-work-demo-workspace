@@ -1,4 +1,5 @@
 event: {
+  id: "dd9966ea-f626-47e9-abab-7785d19d825e"
   name: "1:1"
   date: "2025-10-22"
 }
@@ -9,6 +10,4 @@ Good networking opportunities. She's building her industry presence.
 Auth Phase 2 progressing well.
 """
 sentiment: positive
-comments: """
-The external validation of her work is great to see.
-"""
+comments: "The external validation of her work is great to see."

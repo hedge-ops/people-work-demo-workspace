@@ -1,6 +1,7 @@
 event: {
-    name: "1:1"
-    date: "2025-12-18"
+  id: "be87708c-6944-443a-a303-676994e8fea7"
+  name: "1:1"
+  date: "2025-12-18"
 }
 observations: "Tara showed strong ownership of Project Gravy frontend. Her notification system refactor proposal was well-thought-out. Discussed areas for growth in cross-team communication."
 sentiment: positive

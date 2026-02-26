@@ -1,4 +1,5 @@
 event: {
+  id: "a87c0075-fa15-474e-8da8-2c3ca8b068af"
   name: "1:1"
   date: "2025-10-07"
 }
@@ -8,6 +9,4 @@ Effective November 1. Jordan was thrilled.
 Discussed Senior-level expectations and responsibilities.
 """
 sentiment: positive
-comments: """
-Well-deserved. She's earned this promotion.
-"""
+comments: "Well-deserved. She's earned this promotion."
