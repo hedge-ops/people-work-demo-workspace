@@ -1,4 +1,5 @@
 event: {
+  id: "96e6eb58-6bbb-4cef-9410-f406c7ee5b71"
   name: "1:1"
   date: "2025-08-08"
 }
@@ -8,6 +9,4 @@ Identified several slow queries and optimized them.
 Proactive maintenance work.
 """
 sentiment: positive
-comments: """
-Always thinking about system health.
-"""
+comments: "Always thinking about system health."

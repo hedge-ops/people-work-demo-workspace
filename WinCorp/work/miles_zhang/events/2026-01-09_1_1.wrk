@@ -1,4 +1,5 @@
 event: {
+  id: "7137331e-e95d-4fcc-bd88-723f01755d26"
   name: "1:1"
   date: "2026-01-09"
 }
@@ -8,6 +9,4 @@ Daughter settling into college well.
 He's content with work-life balance.
 """
 sentiment: positive
-comments: """
-Stability and contentment are valuable.
-"""
+comments: "Stability and contentment are valuable."

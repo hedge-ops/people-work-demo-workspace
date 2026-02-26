@@ -1,4 +1,5 @@
 event: {
+  id: "069bef98-ca88-46ac-88b2-59dc3fb5b4e5"
   name: "Lunch Meeting"
   date: "2025-08-05"
   recurrence: {

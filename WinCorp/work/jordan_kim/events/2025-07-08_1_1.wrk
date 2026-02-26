@@ -1,4 +1,5 @@
 event: {
+  id: "5f7ba197-8ca5-477d-8444-6af64c3c5aee"
   name: "1:1"
   date: "2025-07-08"
 }
@@ -8,6 +9,4 @@ Jordan presented her approach at team meeting. Clear explanation.
 She's becoming a technical leader on the team.
 """
 sentiment: positive
-comments: """
-Impressive technical work and communication.
-"""
+comments: "Impressive technical work and communication."

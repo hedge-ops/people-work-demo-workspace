@@ -1,4 +1,5 @@
 event: {
+  id: "896ad8f6-953a-4521-bbf3-64687ce3062a"
   name: "1:1"
   date: "2025-08-19"
 }
@@ -8,6 +9,4 @@ Jordan also mentoring summer intern on testing practices.
 Balancing delivery with team development.
 """
 sentiment: positive
-comments: """
-She's operating like a Senior already.
-"""
+comments: "She's operating like a Senior already."

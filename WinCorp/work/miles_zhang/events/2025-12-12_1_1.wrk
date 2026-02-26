@@ -1,4 +1,5 @@
 event: {
+  id: "ac69345f-503a-4467-928d-3b67c2225081"
   name: "1:1"
   date: "2025-12-12"
 }
@@ -8,6 +9,4 @@ Not interested in promotion, wants fair compensation.
 That's reasonable and I support it.
 """
 sentiment: positive
-comments: """
-He knows what he wants from work.
-"""
+comments: "He knows what he wants from work."

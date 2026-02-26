@@ -1,4 +1,5 @@
 event: {
+  id: "27ae74fd-43f0-4e7a-b9ad-805072bc59ff"
   name: "1:1"
   date: "2025-11-03"
 }
@@ -8,6 +9,4 @@ Methodical approach to identifying bottlenecks.
 Good engineering process.
 """
 sentiment: positive
-comments: """
-Solid technical methodology.
-"""
+comments: "Solid technical methodology."

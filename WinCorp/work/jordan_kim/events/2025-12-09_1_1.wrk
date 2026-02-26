@@ -1,4 +1,5 @@
 event: {
+  id: "a9dd88c5-2a6e-40b9-9107-5e3c88676108"
   name: "1:1"
   date: "2025-12-09"
 }
@@ -8,6 +9,4 @@ She's helping plan Q1 2026 roadmap.
 Proposing new initiatives for the team.
 """
 sentiment: positive
-comments: """
-Taking ownership at Senior level.
-"""
+comments: "Taking ownership at Senior level."

@@ -1,4 +1,5 @@
 event: {
+  id: "a12f0db2-441e-41a1-bebb-49152cc0d801"
   name: "1:1"
   date: "2025-10-31"
 }
@@ -8,6 +9,4 @@ Early warning system for database issues.
 This will prevent future outages.
 """
 sentiment: positive
-comments: """
-Operational excellence.
-"""
+comments: "Operational excellence."

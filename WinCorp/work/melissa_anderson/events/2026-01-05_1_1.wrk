@@ -1,4 +1,5 @@
 event: {
+  id: "871d7184-5324-44e0-84bd-c519633b07bf"
   name: "1:1"
   date: "2026-01-05"
 }
@@ -8,6 +9,4 @@ Proposed leading project for visibility.
 Taking initiative for growth.
 """
 sentiment: positive
-comments: """
-Good to see her stepping up.
-"""
+comments: "Good to see her stepping up."

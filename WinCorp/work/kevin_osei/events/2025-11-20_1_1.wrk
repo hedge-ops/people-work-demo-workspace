@@ -1,4 +1,5 @@
 event: {
+  id: "7059d898-1cae-49b7-b82c-28eb0339fa05"
   name: "1:1"
   date: "2025-11-20"
 }
@@ -8,6 +9,4 @@ Promotion decision expected in December.
 Kevin focused on delivery, not distracted by waiting.
 """
 sentiment: positive
-comments: """
-Professional maturity.
-"""
+comments: "Professional maturity."

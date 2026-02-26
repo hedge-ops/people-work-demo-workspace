@@ -1,4 +1,5 @@
 event: {
+  id: "4b22206f-f80c-4ae2-b426-df359ad4d16f"
   name: "1:1"
   date: "2025-11-28"
 }
@@ -8,6 +9,4 @@ Miles with family for holiday.
 Database systems stable.
 """
 sentiment: neutral
-comments: """
-Well-earned family time.
-"""
+comments: "Well-earned family time."

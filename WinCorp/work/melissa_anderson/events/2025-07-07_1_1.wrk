@@ -1,4 +1,5 @@
 event: {
+  id: "41ebf0af-ad28-441b-ab84-857579acf702"
   name: "1:1"
   date: "2025-07-07"
 }
@@ -8,6 +9,4 @@ Good progress on complex integration work.
 Asked thoughtful questions about error handling.
 """
 sentiment: positive
-comments: """
-She's growing in technical depth.
-"""
+comments: "She's growing in technical depth."

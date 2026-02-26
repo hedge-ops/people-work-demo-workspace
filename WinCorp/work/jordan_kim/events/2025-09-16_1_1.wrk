@@ -1,4 +1,5 @@
 event: {
+  id: "54a57853-542a-4721-92b9-900406affbe6"
   name: "1:1"
   date: "2025-09-16"
 }
@@ -8,6 +9,4 @@ Jordan also proposed improvement to our CI/CD pipeline.
 Always looking for ways to make the team more effective.
 """
 sentiment: positive
-comments: """
-Systems thinking is developing well.
-"""
+comments: "Systems thinking is developing well."

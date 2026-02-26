@@ -1,4 +1,5 @@
 event: {
+  id: "7a35be47-d27c-4adb-a8ed-2610e6ffe11f"
   name: "1:1"
   date: "2025-07-15"
 }
@@ -8,6 +9,4 @@ Working on API rate limiting feature.
 Asked good questions about system scalability.
 """
 sentiment: positive
-comments: """
-She's paying forward the mentorship she received.
-"""
+comments: "She's paying forward the mentorship she received."

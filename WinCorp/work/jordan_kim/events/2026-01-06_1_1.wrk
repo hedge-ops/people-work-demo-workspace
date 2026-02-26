@@ -1,4 +1,5 @@
 event: {
+  id: "00e2db0d-94ec-44f8-abca-e4c369107f1b"
   name: "1:1"
   date: "2026-01-06"
 }
@@ -8,6 +9,4 @@ Jordan energized about new year.
 Working on technical design for Q1 project.
 """
 sentiment: positive
-comments: """
-Starting 2026 strong.
-"""
+comments: "Starting 2026 strong."

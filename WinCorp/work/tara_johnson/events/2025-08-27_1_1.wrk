@@ -1,4 +1,5 @@
 event: {
+  id: "6c1fa8a9-37e4-4453-8eb9-7b00cf56db9c"
   name: "1:1"
   date: "2025-08-27"
 }
@@ -8,6 +9,4 @@ Tara preparing conference talk for October.
 Also helping Kevin prep for Principal promotion packet.
 """
 sentiment: positive
-comments: """
-Balancing multiple high-impact initiatives. This is the breadth we need.
-"""
+comments: "Balancing multiple high-impact initiatives. This is the breadth we need."

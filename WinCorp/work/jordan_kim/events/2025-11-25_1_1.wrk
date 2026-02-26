@@ -1,4 +1,5 @@
 event: {
+  id: "2fb4fe52-b91e-4dce-aa70-84da6acbbaa5"
   name: "1:1"
   date: "2025-11-25"
 }
@@ -8,6 +9,4 @@ Jordan taking time off for family.
 Well-deserved break.
 """
 sentiment: neutral
-comments: """
-She's earned it.
-"""
+comments: "She's earned it."

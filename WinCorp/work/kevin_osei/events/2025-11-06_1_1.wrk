@@ -1,4 +1,5 @@
 event: {
+  id: "4c9f18c1-9927-4398-977d-181ca7c4e4c4"
   name: "1:1"
   date: "2025-11-06"
 }
@@ -8,6 +9,4 @@ Kevin continuing to deliver while packet is reviewed.
 Leading critical infrastructure project.
 """
 sentiment: positive
-comments: """
-Consistent performance regardless of promotion status.
-"""
+comments: "Consistent performance regardless of promotion status."

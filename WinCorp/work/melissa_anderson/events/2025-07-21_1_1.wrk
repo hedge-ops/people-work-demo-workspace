@@ -1,4 +1,5 @@
 event: {
+  id: "a85d6489-4864-4346-b997-d009a30e6792"
   name: "1:1"
   date: "2025-07-21"
 }
@@ -8,6 +9,4 @@ Melissa coordinating well with partner team.
 Cross-org collaboration skills developing.
 """
 sentiment: positive
-comments: """
-Good stakeholder management.
-"""
+comments: "Good stakeholder management."

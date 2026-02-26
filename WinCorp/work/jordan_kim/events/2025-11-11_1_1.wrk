@@ -1,4 +1,5 @@
 event: {
+  id: "968c0c49-45e9-4c07-bc09-455e1e5532f9"
   name: "1:1"
   date: "2025-11-11"
 }
@@ -8,6 +9,4 @@ Jordan's first tech lead project was a success.
 Team gave positive feedback about her leadership.
 """
 sentiment: positive
-comments: """
-Strong start as Senior Engineer.
-"""
+comments: "Strong start as Senior Engineer."

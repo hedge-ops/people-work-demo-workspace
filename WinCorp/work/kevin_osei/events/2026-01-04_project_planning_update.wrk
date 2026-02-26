@@ -1,4 +1,5 @@
 event: {
+  id: "9ea1c99d-bfe9-4405-b76b-3fd85e2a05fd"
   name: "Project Planning / Update"
   date: "2026-01-04"
   recurrence: {

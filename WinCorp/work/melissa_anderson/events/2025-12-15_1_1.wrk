@@ -1,4 +1,5 @@
 event: {
+  id: "4e36af43-907c-438b-b6c5-2b2e25b66a19"
   name: "1:1"
   date: "2025-12-15"
 }
@@ -8,6 +9,4 @@ Good year of learning and contribution.
 Ready for more responsibility in 2026.
 """
 sentiment: positive
-comments: """
-Steady growth trajectory.
-"""
+comments: "Steady growth trajectory."

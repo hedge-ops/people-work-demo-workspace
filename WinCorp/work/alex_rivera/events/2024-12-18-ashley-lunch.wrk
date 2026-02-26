@@ -1,6 +1,7 @@
 event: {
-    name: "Lunch at T/aco"
-    date: "2024-12-18"
+  id: "91aa63cd-bcfe-4f43-963a-aca175948dfb"
+  name: "Lunch at T/aco"
+  date: "2024-12-18"
 }
 observations: "Good discussion about Project Gravy coordination"
 sentiment: positive

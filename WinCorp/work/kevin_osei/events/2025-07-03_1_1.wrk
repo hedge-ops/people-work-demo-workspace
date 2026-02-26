@@ -1,4 +1,5 @@
 event: {
+  id: "37bfc600-a533-4300-a917-de27d6f2e6d7"
   name: "1:1"
   date: "2025-07-03"
 }
@@ -8,6 +9,4 @@ His system design thinking continues to impress.
 Discussed Principal Engineer promotion timeline - realistic for 2026.
 """
 sentiment: positive
-comments: """
-He's operating at Principal level already.
-"""
+comments: "He's operating at Principal level already."

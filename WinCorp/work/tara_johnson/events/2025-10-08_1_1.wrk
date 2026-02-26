@@ -1,4 +1,5 @@
 event: {
+  id: "603d47d3-2578-40f2-bd8f-6575e84d1557"
   name: "1:1"
   date: "2025-10-08"
 }
@@ -8,6 +9,4 @@ Auth Phase 2 started with Security team. Early progress good.
 She's excited about representing the company externally.
 """
 sentiment: positive
-comments: """
-This visibility will be valuable for her career trajectory.
-"""
+comments: "This visibility will be valuable for her career trajectory."

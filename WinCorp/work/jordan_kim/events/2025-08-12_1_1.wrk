@@ -1,4 +1,5 @@
 event: {
+  id: "b673412c-96db-4ca0-bdcc-9af4da45e7a7"
   name: "1:1"
   date: "2025-08-12"
 }
@@ -8,6 +9,4 @@ She's thinking about cross-team dependencies proactively.
 Discussed Senior Engineer promotion timeline.
 """
 sentiment: positive
-comments: """
-Her growth trajectory is impressive.
-"""
+comments: "Her growth trajectory is impressive."

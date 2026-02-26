@@ -1,4 +1,5 @@
 event: {
+  id: "bbf0d724-7027-4643-81eb-2da0fd2a6719"
   name: "1:1"
   date: "2025-10-17"
 }
@@ -8,6 +9,4 @@ Adding alerts for potential issues.
 Proactive system management.
 """
 sentiment: positive
-comments: """
-Always thinking ahead about operations.
-"""
+comments: "Always thinking ahead about operations."

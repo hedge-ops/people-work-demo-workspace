@@ -1,4 +1,5 @@
 event: {
+  id: "9d969a7d-f9ba-4efd-97d8-5e50cc484285"
   name: "1:1"
   date: "2025-11-19"
 }
@@ -8,6 +9,4 @@ Year-end review coming up - Tara's performance exceptional as Sr. Principal.
 Discussed 2026 goals and potential Distinguished Engineer path.
 """
 sentiment: positive
-comments: """
-Distinguished Engineer is the right next step for her trajectory.
-"""
+comments: "Distinguished Engineer is the right next step for her trajectory."

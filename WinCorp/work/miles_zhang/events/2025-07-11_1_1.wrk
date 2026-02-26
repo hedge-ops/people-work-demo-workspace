@@ -1,4 +1,5 @@
 event: {
+  id: "7430fa92-2268-42ef-8c9f-fbc25d8422a1"
   name: "1:1"
   date: "2025-07-11"
 }
@@ -8,6 +9,4 @@ Solid, methodical work as always.
 Mentioned daughter starting college in fall.
 """
 sentiment: positive
-comments: """
-Family transitions. He's balancing work and life well.
-"""
+comments: "Family transitions. He's balancing work and life well."

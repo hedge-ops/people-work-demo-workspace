@@ -1,4 +1,5 @@
 event: {
+  id: "7d31635f-c24c-46ae-8402-265533d335cd"
   name: "1:1"
   date: "2025-07-16"
 }
@@ -8,6 +9,4 @@ Tara leading kickoff meetings with Platform, Security, and Mobile teams.
 Also mentioned mentoring new Principal Engineer from Data team.
 """
 sentiment: positive
-comments: """
-Cross-team leadership is natural for her now. This is Sr. Principal work.
-"""
+comments: "Cross-team leadership is natural for her now. This is Sr. Principal work."

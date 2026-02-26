@@ -1,4 +1,5 @@
 event: {
+  id: "900e6b69-b1d0-41a0-8e6f-b18d1c99fb11"
   name: "Coffee"
   date: "2026-01-11"
   recurrence: {

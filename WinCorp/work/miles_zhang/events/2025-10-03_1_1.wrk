@@ -1,4 +1,5 @@
 event: {
+  id: "71ae623d-bb53-4a9f-85b3-55ed550b39fc"
   name: "1:1"
   date: "2025-10-03"
 }
@@ -8,6 +9,4 @@ Miles also helping Jordan with database design.
 Patient technical mentorship.
 """
 sentiment: positive
-comments: """
-Steady contributor to both code and people.
-"""
+comments: "Steady contributor to both code and people."

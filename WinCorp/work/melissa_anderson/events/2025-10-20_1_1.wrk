@@ -1,4 +1,5 @@
 event: {
+  id: "d29be0aa-a0ce-402a-9e31-408d3949059c"
   name: "1:1"
   date: "2025-10-20"
 }
@@ -8,6 +9,4 @@ Operations team giving positive feedback.
 Cross-team impact.
 """
 sentiment: positive
-comments: """
-Her work reaches beyond engineering.
-"""
+comments: "Her work reaches beyond engineering."

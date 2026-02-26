@@ -1,4 +1,5 @@
 event: {
+  id: "0a10151c-7e54-4b0a-a8ef-27d72b7b4600"
   name: "1:1"
   date: "2025-08-22"
 }
@@ -8,6 +9,4 @@ Miles documented patterns for team to follow.
 Knowledge sharing through documentation.
 """
 sentiment: positive
-comments: """
-His documentation work is valuable for team growth.
-"""
+comments: "His documentation work is valuable for team growth."

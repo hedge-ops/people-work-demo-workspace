@@ -1,4 +1,5 @@
 event: {
+  id: "4682afcf-eb5b-4eea-bd45-0ca68418310a"
   name: "1:1"
   date: "2025-10-23"
 }
@@ -8,6 +9,4 @@ Promotion packet nearly complete.
 Kevin confident but not overconfident.
 """
 sentiment: positive
-comments: """
-Healthy confidence. He's ready.
-"""
+comments: "Healthy confidence. He's ready."

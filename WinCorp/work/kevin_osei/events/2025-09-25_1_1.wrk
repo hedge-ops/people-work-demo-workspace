@@ -1,4 +1,5 @@
 event: {
+  id: "cf9394a6-1362-4102-b163-c87aa6dceca3"
   name: "1:1"
   date: "2025-09-25"
 }
@@ -8,6 +9,4 @@ Documenting technical leadership and company-wide impact.
 Also leading architecture review board discussions.
 """
 sentiment: positive
-comments: """
-His case for Principal is strong.
-"""
+comments: "His case for Principal is strong."
